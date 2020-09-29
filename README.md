@@ -5,7 +5,7 @@ A wikipedia of emojis. Yes! emojis too have meanings ! 😉
 # Description
 
 Ever saw an emoji and thought "Dude! What does this emoji mean? When can we use this one?"🤔. 
-Well, no need to worry now, this EMOJIPEDIA will make your life easier then. It gives a brief description about different emojis, so that you need not be limited to those usual emojis but can find a perfect emoji for yout imperfect situation😄.
+Well, no need to worry now, this EMOJIPEDIA will make your life easier then. It gives a brief description about different emojis, so that you need not be limited to those usual emojis and can easily find a perfect emoji for yout imperfect situation😄.
 
 # Contributing
 
