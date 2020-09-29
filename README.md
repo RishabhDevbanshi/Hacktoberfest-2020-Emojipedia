@@ -15,7 +15,7 @@ Well, no need to worry now, this EMOJIPEDIA will make your life easier then. It 
 4. Make required changes and improvements.
 5. Make a pull request .
 
-<h3>Don't forget to give this repository a STAR.</h3>
+<h5>Don't forget to give this repository a STAR.</h5>
 
 # Feel Free to open a issue
 
