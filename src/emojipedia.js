@@ -26,7 +26,49 @@ const emojipedia = [
     name: "Face With Sunglasses",
     meaning:
       "I'm the king of the world! Mr. Cool Smiley with sunglasses. Is totally self-assured and relaxed. Everything is absolutely easy and cool. Also a symbol for sun, summer holidays, and holidays on the beach.“."
-  }
+  },
+  {
+    id: 5,
+    emoji: "😉",
+    name: "Winking Face",
+    meaning:
+      "A yellow face with a slight smile shown winking, usually its left eye. May signal a joke, flirtation, hidden meaning, or general positivity. Tone varies, including playful, affectionate, suggestive, or ironic.“."
+  },
+  {
+    id: 6,
+    emoji: "😐 ",
+    name: "Neutral Face",
+    meaning:
+      "A yellow face with simple, open eyes and a flat, closed mouth. Intended to depict a neutral sentiment but often used to convey mild irritation and concern or a deadpan sense of humor.“."
+  },
+  {
+    id: 7,
+    emoji: "😷 ",
+    name: "Face with Medical Mask",
+    meaning:
+      "A yellow face with closed eyes wearing a white surgical mask, as used by health workers in hospitals. Also worn to avoid sickness or spreading airborne diseases.“."
+  },
+  {
+    id: 8,
+    emoji: "💔",
+    name: "Broken Heart",
+    meaning:
+      "A love heart, broken in two. This emoji represents the aching one feels when they are missing the  person they love.“."
+  },
+  {
+    id: 9,
+    emoji: "♊",
+    name: "Gemini",
+    meaning:
+      "The Gemini astrological sign in the Zodiac. This Zodiac Symbol represents Twins.“."
+  },
+  {
+    id: 10,
+    emoji: "🙈",
+    name: " See-No-Evil Monkey",
+    meaning:
+      "The see no evil monkey, called Mizaru (Japanese for “see not”), one of the Three Wise Monkeys. Depicted as the brown 🐵 Monkey Face with tan or pinkish hands covering its eyes.“."
+  },
 ];
 
 export default emojipedia;
