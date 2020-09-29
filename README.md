@@ -2,12 +2,12 @@
 
 A wikipedia of emojis. Yes! emojis too have meanings ! 😉
 
-#Description
+# Description
 
 Ever saw an emoji and thought "Dude! What does this emoji mean? When can we use this one?"🤔. 
 Well, no need to worry now, this EMOJIPEDIA will make your life easier then. It gives a brief description about different emojis, so that you need not be limited to those usual emojis but can find a perfect emoji for yout imperfect situation😄.
 
-#Contributing
+# Contributing
 
 1. Fork this repository.
 2. Clone it to your local computer using <strong>git clone</strong> command.
@@ -15,7 +15,8 @@ Well, no need to worry now, this EMOJIPEDIA will make your life easier then. It 
 4. Make required changes and improvements.
 5. Make a pull request .
 
-#Feel Free to open a issue
+# Feel Free to open a issue
+
 <ul>
   <li>Have some errors or bugs</li>
   <li>Something is not rendering properly</li>
