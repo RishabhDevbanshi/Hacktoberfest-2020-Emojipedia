@@ -115,9 +115,9 @@ const emojipedia = [{
     },
     {
         id: 20,
-        emoji: "🥶",
-        name: "Freezing face",
-        meaning: "It is so cold, you are about to freeze to death. The smile is almost frozen. Already totally blue in the face from the cold temperature, tortured facial expression. Only a cup of tea, coffee, or the hot tub can help now."
+        emoji: "✌",
+        name: "Victory Hand",
+        meaning: "No offense! Symbol of peace, which became known in the 60s by the hippies. “V” hand signal stands for victory. In Great Britain, can be seen in an insulting way as a woman with spread-out legs."
     },
     {
         id: 21,
