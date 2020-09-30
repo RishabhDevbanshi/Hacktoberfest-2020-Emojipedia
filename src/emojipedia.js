@@ -87,6 +87,36 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 14,
+    emoji: "❌",
+    name: "Cross Mark",
+    meaning: "A red X. Often used to represent disagreement or the fact that something is incorrect, misguided, or wrong."
+  },
+  {
+    id: 15,
+    emoji: "🍆",
+    name: "Eggplant",
+    meaning: "An eggplant or aubergine. Due to its phallic shape, it is often used to represent a penis."
+  },
+  {
+    id: 16,
+    emoji: "😳",
+    name: "Flushed Face",
+    meaning: "A face with a blush, wide eyes, and raised eyebrows. It is used to represent embarrassment, flattery, or shyness."
+  },
+  {
+    id: 17,
+    emoji: "😂",
+    name: "Face with Tears of Joy",
+    meaning: "A face with a grin and tears coming out of their eyes. Represents humor or irony."
+  },
+  {
+    id: 18,
+    emoji: "🔇",
+    name: "Muted Speaker",
+    meaning: "A speaker icon with a cross over it. Often used as an icon to represent something being muted."
   }
 ];
 
