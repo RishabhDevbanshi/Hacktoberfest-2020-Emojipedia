@@ -87,6 +87,12 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 14,
+    emoji: "🔥",
+    name: "Fire",
+    meaning: 'It is used to signify that something is cool, awesome, exciting, or more colloquially, “on fire".'
   }
 ];
 
