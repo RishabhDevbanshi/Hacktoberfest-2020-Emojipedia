@@ -69,6 +69,12 @@ const emojipedia = [
     meaning:
       "The see no evil monkey, called Mizaru (Japanese for “see not”), one of the Three Wise Monkeys. Depicted as the brown 🐵 Monkey Face with tan or pinkish hands covering its eyes.“."
   },
+  {
+    id: 11,
+    emoji: "🤮",
+    name: "Face Vomiting",
+    meaning: "A yellow face with scrunched eyes spewing birght-green vomit. This emoji represents illness or disgust.“."
+  }
 ];
 
 export default emojipedia;
