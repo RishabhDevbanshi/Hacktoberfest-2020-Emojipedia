@@ -88,6 +88,20 @@ const emojipedia = [
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
   }
+  {
+    id: 14,
+    emoji: "😔",
+    name: "Pensive Face",
+    meaning:
+      "A pensive, remorseful face. Saddened by life. Quietly considering where things all went wrong. Depicted as a yellow face with sad, closed eyes, furrowed eyebrows, and a slight, flat mouth. May convey a variety of sad emotions, including feeling disappointed, hurt, or lonely."
+  },
+  {
+    id: 15,
+    emoji: "😶",
+    name: "Face without mouth",
+    meaning:
+      "The face without mouth emoji can be used as an emotional-tone marker to indicate sadness, loneliness, disappointment, emptiness, and genuine self-deprecation. It can also be used more literally as speechlessness or to represent zipping one's lips. In some uses, it's a symbolic marker for sheepishness."
+  },
 ];
 
 export default emojipedia;
