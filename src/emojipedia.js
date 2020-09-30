@@ -77,16 +77,9 @@ const emojipedia = [
   },
   {
     id: 12,
-    emoji: "🥰",
-    name: "Smiling Face with Hearts",
-    meaning: "A yellow face with smiling eyes, a closed smile, rosy cheeks, and several hearts floating around its head. Expresses a range of happy, affectionate feelings, especially being in love."
-
-  },
-  {
-    id: 13,
-    emoji: "🥺",
-    name: "Pleading Face",
-    meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+    emoji: "💍" ,
+    name: "Ring",
+    meaning: "A ring with displaying a gem stone of some kind on the top, most likely a diamond. This piece of jewellery is often associated with a proposal and subsequent engagement to be married“."
   }
 ];
 
