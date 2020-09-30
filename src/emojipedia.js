@@ -26,6 +26,13 @@ const emojipedia = [
     name: "Face With Sunglasses",
     meaning:
       "I'm the king of the world! Mr. Cool Smiley with sunglasses. Is totally self-assured and relaxed. Everything is absolutely easy and cool. Also a symbol for sun, summer holidays, and holidays on the beach.“."
+  },
+  {
+    id: 5,
+    emoji: "🥳",
+    name: "Party Face",
+    meaning:
+      "A yellow face with a party hat blowing a party horn as confetti floats around its head."
   }
 ];
 
