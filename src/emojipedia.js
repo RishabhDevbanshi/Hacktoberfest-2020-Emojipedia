@@ -74,7 +74,6 @@ const emojipedia = [
     emoji: "🤮",
     name: "Face Vomiting",
     meaning: "A yellow face with scrunched eyes spewing birght-green vomit. This emoji represents illness or disgust.“."
-<<<<<<< HEAD
   },
   {
     id: 12,
@@ -82,10 +81,6 @@ const emojipedia = [
     name: "Ring",
     meaning: "A ring with displaying a gem stone of some kind on the top, most likely a diamond. This piece of jewellery is often associated with a proposal and subsequent engagement to be married“."
   }
-  
-=======
-  }
->>>>>>> b35e9a432799ffed39dd4e6a9c66a5e4e5fe8f08
 ];
 
 export default emojipedia;
