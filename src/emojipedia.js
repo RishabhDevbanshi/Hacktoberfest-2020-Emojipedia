@@ -75,6 +75,18 @@ const emojipedia = [
     name: "Face Vomiting",
     meaning: "A yellow face with scrunched eyes spewing birght-green vomit. This emoji represents illness or disgust.“."
   }
+  {
+    id: 12, 
+    emoji: "🧺", 
+    name: "Laundry",
+    meaning: "A Lanudry Emoji Indicating Someone to Do the Laundry!“."
+  }
+  {
+    id: 13,
+    emoji: "🌈", 
+    name: "Rainbow", 
+    meaning: "A Rainbow Emoji. Could also mean that a rainbow has appeared in the sky.“."
+  }
 ];
 
 export default emojipedia;
