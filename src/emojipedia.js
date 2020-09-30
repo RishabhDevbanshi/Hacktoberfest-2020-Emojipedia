@@ -92,7 +92,13 @@ const emojipedia = [
     id: 13,
     emoji: "🧜‍♂️",
     name: "Aquaman",
-    meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+    meaning: "A figurine depicting The king of water, Aquaman with the triad"
+  },
+  {
+    id: 13,
+    emoji: "👼",
+    name: "Innocent Angel Baby",
+    meaning: "A innocent face depicting innocence of a person"
   }
 ];
 
