@@ -87,6 +87,18 @@ const emojipedia = [
     name: "Rainbow", 
     meaning: "A Rainbow Emoji. Could also mean that a rainbow has appeared in the sky.“."
   }
+  {
+    id: 14, 
+    emoji: "🙂",
+    name: "Smile",
+    meaning: "A Cute Little Smiling Emoji.“."
+  }
+  {
+    id: 15, 
+    emoji: "🤖",
+    name: "Robot", 
+    meaning: "The image of a metallic head with eyes and a grill-like mouth is the emoji that represents a robot.“."
+  }
 ];
 
 export default emojipedia;
