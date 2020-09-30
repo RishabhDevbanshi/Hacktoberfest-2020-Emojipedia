@@ -87,7 +87,43 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
-  }
+  },
+  {
+    id: 14,
+    emoji: "🤓",
+    name: "NERD Face",
+    meaning: "Aaah look! We just found you. A yellow face smiling with thick, black-rimmed eyeglasses and buck teeth on most platforms. Styled after a stereotypical nerd."
+  },
+  {
+    id: 15,
+    emoji: "💩",
+    name: "Poop",
+    meaning: "A swirl of brown poop, shaped like soft-serve ice cream with large, excited eyes and a big, friendly smile. Yes, you can't unread it - 'soft serve ice-cream'"
+  },
+  {
+    id: 16,
+    emoji: "✨",
+    name: "Sparkles/Glitter/Shiny",
+    meaning: "The glittering flashes of sparkles. Generally depicted as a cluster of three, yellow four-point stars, with one large sparkle and two small ones to its left or right."
+  },
+  {
+      id: 17,
+      emoji:"🥰",
+      name: "In love face",
+      meaning: "Expresses a range of happy, affectionate feelings, especially being in love. The number of hearts (three or more) varies by platform."
+  },
+  {
+      id: 18,
+      emoji:"🥶",
+      name: "Cold Face",
+      meaning:"An icy-blue face with gritted teeth usually depicted with icicles clinging to its cheeks or jaw, as if frozen from extreme cold. May also represent unfriendliness (slang, cold) or excellence."
+  },
+  {
+    id: 19,
+    emoji: "😬",
+    name: "Awkward",
+    meaning: "Represents a range of negative or tense emotions, especially nervousness, embarrassment, or awkwardness (e.g., Eek!)."
+  },
 ];
 
 export default emojipedia;
