@@ -74,14 +74,7 @@ const emojipedia = [
     emoji: "🤮",
     name: "Face Vomiting",
     meaning: "A yellow face with scrunched eyes spewing birght-green vomit. This emoji represents illness or disgust.“."
-  },
-  {
-    id: 12,
-    emoji: "🔥" ,
-    name: "Fire",
-    meaning: " A flame, as produced when something is on fire. Depicted as a red, orange, and yellow flickering flame.Commonly used for various metaphorical expressions related to fire, including the slang hot (“attractive”) and lit (“excellent”)“."
-  },
-  
+  }
 ];
 
 export default emojipedia;
