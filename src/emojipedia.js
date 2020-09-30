@@ -87,6 +87,18 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 14,
+    emoji: "😒",
+    name: "Unamused Face",
+    meaning: "A yellow face with slightly raised eyebrows, a frown, and eyes looking to the side. May convey a variety of negative emotions, including irritation, displeasure, grumpiness, and skepticism, as if giving the side-eye."
+  },
+  {
+    id: 15,
+    emoji: "🥴",
+    name: "Woozy Face",
+    meaning: "A yellow face with a crumpled mouth and a cockeyed expression, as if tired and emotional from inebriation or smitten with love. Depicted with raised or furrowed eyebrows and at least one eye half-open."
   }
 ];
 
