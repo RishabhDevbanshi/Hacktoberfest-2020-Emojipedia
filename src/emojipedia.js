@@ -32,7 +32,7 @@ const emojipedia = [
     emoji: "🥳",
     name: "Party Face",
     meaning:
-      "A yellow face with a party hat blowing a party horn as confetti floats around its head."
+      "This is an emoji with a party hat and blowing rolls. Colorful paper scattered around his face. It is generally used to celebrate holidays, anniversaries or interesting occasions to express the emotions of  celebration,  cheer, and  happiness."
   }
 ];
 
