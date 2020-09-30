@@ -87,6 +87,24 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 14,
+    emoji: "🎉",
+    name: "Party popper",
+    meaning: "A gold colored cone popper with blue and red confetti about to burst into the air. Can be used normally when congratulating someone."
+  },
+  {
+    id: 15,
+    emoji: "🧨",
+    name: "Firecracker",
+    meaning: "A red tube with a burning fuse. This emoji is often used in celebratory dates like New Year's eve."
+  },
+  {
+    id: 16,
+    emoji: "🎯",
+    name: "Bullseye",
+    meaning: "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
   }
 ];
 
