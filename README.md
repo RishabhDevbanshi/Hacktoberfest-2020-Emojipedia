@@ -1,6 +1,8 @@
 # Emojipedia 
 
-A wikipedia of emojis. Yes! emojis too have meanings ! 😉
+A wikipedia of emojis and a end to your Emoji problems. Yes! emojis too have meanings ! 😉
+
+
 
 # Description
 
