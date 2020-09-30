@@ -87,7 +87,37 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
-  }
+  },
+  {
+    id: 14,
+    emoji: "🖤",
+    name: "Black Heart",
+    meaning: "Black Heart Emoji is used to indicate a heart without blood, cold, emotionless."
+  },
+  {
+    id: 15,
+    emoji: "💘",
+    name: "Lanced Pink Heart",
+    meaning: "It shows a pink heart lanced by a blue arrow sticking out from the top left side. This emoji could mean love, romance, first falling in love, passion, and desire."
+  },
+  {
+    id: 16,
+    emoji: "😞",
+    name: "Disappointed Face",
+    meaning: "This sad face emoji with a frowning mouth and disappointed eyes convey a sense of sadness, remorse, regret, disappointment, or any similarly negative emotion."
+  },
+  {
+    id: 17,
+    emoji: "🤘",
+    name: "Sign Of Horns",
+    meaning: "A hand gesture raising the pinky and index fingers on one hand is the emoji with a variety of other meanings. It can refer to heavy metal, the devil or an encouragement to proceed with an activity."
+  },
+  {
+    id: 18,
+    emoji: "🤦",
+    name: "Person Facepalming ",
+    meaning: "The image of a person cringing while his/her palm is covering half of his/her face is the emoji representing dismay. It can be used to express amazement at how absurd a person or a situation is."
+  },
 ];
 
 export default emojipedia;
