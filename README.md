@@ -1,28 +1,28 @@
 # Emojipedia 
 
-A wikipedia of emojis. Yes! emojis too have meanings ! 😉
+A wikipedia of emojis and what they mean.
 
 # Description
 
-Ever saw an emoji and thought "Dude! What does this emoji mean? When can we use this one?"🤔. 
-Well, no need to worry now, this EMOJIPEDIA will make your life easier then. It gives a brief description about different emojis, so that you need not be limited to those usual emojis and can easily find a perfect emoji for yout imperfect situation😄.
+Ever had that moment where you wondered, 'what on earth is that emoji'? 🤔 
+Yeah, us too. But with Emojipedia, you get a brief description about different emojis. You'll no longer be limited to the run-of-the-mill emojis, and will easily find the perfect fit. Self-expression couldn't get easier. 😄
 
 # Contributing
 
 1. Fork this repository.
 2. Clone it to your local computer using <strong>git clone</strong> command.
-3. Install all dependencies using <strong>npm install</strong>
+3. Install all dependencies using <strong>npm install</strong>.
 4. Make required changes and improvements.
-5. Make a pull request .
+5. Make a pull request.
 
-<h5>Don't forget to give this repository a STAR.⭐</h5>
+<h5>Don't forget to give this repository a star! ⭐</h5>
 
 # Feel Free to open a issue
 
 <ul>
-  <li>Have some errors or bugs</li>
-  <li>Something is not rendering properly</li>
-  <li>Have any more idea to contribute and make it better</li>
+  <li>If you find errors or bugs.</li>
+  <li>Something isn't rendering properly.</li>
+  <li>Have an idea to contribute to the project.</li>
 </ul>
-<h2>All feedbacks and suggestions are welcome! Everyone can contribute toward this project. Just <strong>FORK</strong> and make a <strong>PR</strong>.</h2>
+<h2>All feedback and suggestions are welcome! Everyone can contribute toward this project. Just <strong>FORK</strong> and make a <strong>PR</strong>.</h2>
 
