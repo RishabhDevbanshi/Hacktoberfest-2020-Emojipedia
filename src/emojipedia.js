@@ -77,22 +77,11 @@ const emojipedia = [
   },
   {
     id: 12,
-    emoji: "😢",
-    name: "Face crying",
-    meaning: "A yellow face with raised eyebrows and a slight frown, shedding a single, blue tear from one eye down its cheek. May convey a moderate degree of sadness or pain.“."
+    emoji: "🔥" ,
+    name: "Fire",
+    meaning: " A flame, as produced when something is on fire. Depicted as a red, orange, and yellow flickering flame.Commonly used for various metaphorical expressions related to fire, including the slang hot (“attractive”) and lit (“excellent”)“."
   },
-  {
-    id: 13,
-    emoji: "🥰",
-    name: "Smiling Face with Hearts",
-    meaning: "Expresses a range of happy, affectionate feelings, especially being in love.“."
-  },
-  {
-    id: 14,
-    emoji: "🙁",
-    name: "Frowning Face",
-    meaning: " May convey such feelings as moderate concern or disappointment and affectionate sadness, as when missing a loved one“."
-  }
+  
 ];
 
 export default emojipedia;
