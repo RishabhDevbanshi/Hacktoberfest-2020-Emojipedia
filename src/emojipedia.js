@@ -77,10 +77,10 @@ const emojipedia = [
   },
   {
     id: 12,
-    emoji: "🔥" ,
-    name: "Fire",
-    meaning: " A flame, as produced when something is on fire. Depicted as a red, orange, and yellow flickering flame.Commonly used for various metaphorical expressions related to fire, including the slang hot (“attractive”) and lit (“excellent”)“."
-  },
+    emoji: "💍" ,
+    name: "Ring",
+    meaning: "A ring with displaying a gem stone of some kind on the top, most likely a diamond. This piece of jewellery is often associated with a proposal and subsequent engagement to be married“."
+  }
   
 ];
 
