@@ -87,7 +87,116 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
-  }
+  },
+  {
+    id: 14,
+    emoji: "🤐",
+    name: "Lips Sealed",
+    meaning: ""
+  },
+  {
+    id: 15,
+    emoji: "🤩",
+    name: "Starry Eyes",
+    meaning: ""
+  },
+  {
+    id: 16,
+    emoji: "🤑",
+    name: "Money Face",
+    meaning: ""
+  },
+  {
+    id: 17,
+    emoji: "😤",
+    name: "Grunt Face",
+    meaning: ""
+  },
+  {
+    id: 18,
+    emoji: "😱",
+    name: "Shocked Face",
+    meaning: ""
+  },
+  {
+    id: 19,
+    emoji: "😶",
+    name: "Neutral Face",
+    meaning: ""
+  },
+  {
+    id: 20,
+    emoji: "😈",
+    name: "Happy Red Devil Face",
+    meaning: ""
+  },
+  {
+    id: 21,
+    emoji: "🤯",
+    name: "Brain Shocked Face",
+    meaning: ""
+  },
+  {
+    id: 22,
+    emoji: "🤮",
+    name: "Vomiting Face",
+    meaning: ""
+  },
+  {
+    id: 23,
+    emoji: "👿",
+    name: "Angry Devil Face",
+    meaning: ""
+  },
+  {
+    id: 24,
+    emoji: "😇",
+    name: "Smiling Face with Halo",
+    meaning: ""
+  },
+  {
+    id: 25,
+    emoji: "😉",
+    name: "Winking Face",
+    meaning: ""
+  },
+  {
+    id: 26,
+    emoji: "😅",
+    name: "Grinning Face with Sweat",
+    meaning: ""
+  },
+  {
+    id: 27,
+    emoji: "😗",
+    name: "Kissing Face",
+    meaning: ""
+  },
+  {
+    id: 28,
+    emoji: "😐",
+    name: "Neutral Face",
+    meaning: ""
+  },
+  {
+    id: 29,
+    emoji: "😫",
+    name: "Tired Face",
+    meaning: ""
+  },
+  {
+    id: 30,
+    emoji: "😭",
+    name: "Loud Crying Face",
+    meaning: ""
+  },
+  {
+    id: 31,
+    emoji: "☹",
+    name: "Frowing Face",
+    meaning: ""
+  },
+
 ];
 
 export default emojipedia;
