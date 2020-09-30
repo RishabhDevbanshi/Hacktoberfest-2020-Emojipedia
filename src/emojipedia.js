@@ -95,7 +95,7 @@ const emojipedia = [
     meaning: "A red face with horns and a smirk that will  make satan proud."
   },
   {
-    id: 14,
+    id: 15,
     emoji: "🐶",
     name: "Doggo",
     meaning: "An innocent and adorable puppy face that shows dogs deserve all the love in the world."
