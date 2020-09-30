@@ -87,6 +87,13 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 14,
+    emoji: "♉",
+    name: "Taurus",
+    meaning:
+      "Taurus, is the second astrological sign in the present zodiac. This Zodiac Symbol represents Bull🐂 .“."
   }
 ];
 
