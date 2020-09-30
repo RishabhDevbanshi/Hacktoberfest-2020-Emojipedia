@@ -79,19 +79,19 @@ const emojipedia = [
     id: 12, 
     emoji: "🧺", 
     name: "Laundry",
-    meaning: "A Lanudry Emoji Indicating Someone to Do the Laundry!“."
+    meaning: "Commonly used to represent doing laundry or having a picnic.“."
   }
   {
     id: 13,
     emoji: "🌈", 
     name: "Rainbow", 
-    meaning: "A Rainbow Emoji. Could also mean that a rainbow has appeared in the sky.“."
+    meaning: "The rainbow emoji expresses happiness. It can be used to express that something good has finally happened “."
   }
   {
     id: 14, 
     emoji: "🙂",
     name: "Smile",
-    meaning: "A Cute Little Smiling Emoji.“."
+    meaning: "Conveys a wide range of positive, happy, and friendly sentiments“."
   }
   {
     id: 15, 
