@@ -94,6 +94,12 @@ const emojipedia = [
     name: "Evil face",
     meaning: "A red face with horns and a smirk that will  make satan proud."
   },
+  {
+    id: 14,
+    emoji: "🐶",
+    name: "Doggo",
+    meaning: "An innocent and adorable puppy face that shows dogs deserve all the love in the world."
+  },
 ];
 
 export default emojipedia;
