@@ -99,6 +99,18 @@ const emojipedia = [
     name: "Robot", 
     meaning: "The image of a metallic head with eyes and a grill-like mouth is the emoji that represents a robot.“."
   }
+  {
+    id: 16, 
+    emoji: "🏓", 
+    name: "Ping Pong", 
+    meaning: "Ping Pong emoji is used to represent the game of Ping Pong. It can be used to represent the desire to play the sport or just to talk about it.“."
+  }
+  {
+    id: 17, 
+    emoji: "🎨", 
+    name: "Pallete",
+    meaning: "It is a representative of art and creativity. It usually represents the act of painting.“."
+  }
 ];
 
 export default emojipedia;
