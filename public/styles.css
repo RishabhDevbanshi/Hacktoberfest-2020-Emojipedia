@@ -81,3 +81,12 @@ dd dl {
 dd dl .term {
   margin-bottom: 1rem;
 }
+  
+.searchbox {
+  width: 100%;
+}
+  
+.searchbox input[type="text"] {
+  width: 40%;
+  margin: 0 auto;
+}
