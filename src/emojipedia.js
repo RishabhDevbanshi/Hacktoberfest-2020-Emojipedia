@@ -74,8 +74,8 @@ const emojipedia = [
     emoji: "🤮",
     name: "Face Vomiting",
     meaning:
-      "A yellow face with scrunched eyes spewing birght-green vomit. This emoji represents illness or disgust.“.",
-  },
+      "A yellow face with scrunched eyes spewing birght-green vomit. This emoji represents illness or disgust.",
+    },
   {
     id: 12,
     emoji: "🥺",
@@ -94,8 +94,8 @@ const emojipedia = [
     id: 14,
     emoji: "🥰",
     name: "Smiling Face with Hearts",
-    meaning: "",
-  },
+    meaning: "A yellow face with smiling eyes, a closed smile, rosy cheeks, and several hearts floating around its head. Expresses a range of happy, affectionate feelings, especially being in love.",
+  }
 ];
 
 export default emojipedia;
