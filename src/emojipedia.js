@@ -87,7 +87,31 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
-  }
+  },
+  {
+    id: 14,
+    emoji: "🐶",
+    name: "Dog Face",
+    meaning: "A sweet dog face with a panting tongue and floppy ears. Stands for unconditional loyalty and attention."
+  },
+  {
+    id: 15,
+    emoji: "🐱",
+    name: "Cat Face",
+    meaning: "The cute, playful and fluffy walkers on velvet paws are one of the most popular pets, especially in big cities. Cats are considered independent, stubborn, with the seventh sense. They symbolize wisdom, luck, individuality as well as affection and tenderness."
+  },
+  {
+    id: 16,
+    emoji: "🐭",
+    name: "Mouse Face",
+    meaning: "Mice are considered small and cute but also shy and helpless. An unremarkable, shy and modest person is referred to as a mousy person."
+  },
+  {
+    id: 17,
+    emoji: "🐍",
+    name: "Snake",
+    meaning: "The hissing snake stands for furtiveness and deception. A person pretends to be your friend, but is badmouthing you behind your back."
+  } 
 ];
 
 export default emojipedia;
