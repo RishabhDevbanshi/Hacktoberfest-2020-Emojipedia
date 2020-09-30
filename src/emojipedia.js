@@ -87,6 +87,18 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 14,
+    emoji: "🔥",
+    name: "Fire",
+    meaning: "If you want to say an event is or was wild, exciting, and full of great fun, the emoji “Fire” is a great term to use."
+  },
+  {
+    id: 15,
+    emoji: "✨",
+    name: "Sparkles",
+    meaning: "Sparkles used to indicate various positive sentiments, including love, happiness, beauty, gratitude, and excitement."
   }
 ];
 
