@@ -93,6 +93,12 @@ const emojipedia = [
     emoji: "🏳️‍🌈",
     name: "Rainbow Flag",
     meaning: "Represent people of colour, and baby blue, pink and white to include the trans flag. Generally used to celebrate by trans people."
+  },
+  {
+    id: 17,
+    emoji: "🏡",
+    name: "Working from Home",
+    meaning: "A house with tree, generally used to represent that you are working from home."
   }
 ];
 
