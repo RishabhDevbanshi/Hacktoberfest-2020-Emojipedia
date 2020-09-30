@@ -87,6 +87,12 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 16,
+    emoji: "🏳️‍🌈",
+    name: "Rainbow Flag",
+    meaning: "Represent people of colour, and baby blue, pink and white to include the trans flag. Generally used to celebrate by trans people."
   }
 ];
 
