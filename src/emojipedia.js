@@ -254,6 +254,13 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: ":🐄:",
+    name: "Cow",
+    meaning:
+      "A cow, a bovine farmed for its meat or milk. Depicted in full profile on all fours facing left with a black-and-white patched coat, a pink udder and horns."
   }
 ];
 
