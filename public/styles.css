@@ -82,8 +82,18 @@ dd dl .term {
   margin-bottom: 1rem;
 }
 
+
 @media only screen and (max-width: 800px) {
   .dictionary {
     justify-content: center;
   }
+  
+.searchbox {
+  width: 100%;
+}
+  
+.searchbox input[type="text"] {
+  width: 40%;
+  margin: 0 auto;
+
 }
