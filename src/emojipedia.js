@@ -221,7 +221,7 @@ const emojipedia = [
     id: 35,
     emoji: "🥱",
     name: "Yawning Face",
-    meaning: "A Yawning Face emoji is used for many things. It can be used as indicating sleepiness, or boredom sometimes. It is also popularly used in an argument."
+    meaning: "A yellow face with eyes closed and mouth wide open covered with a hand, is used for various things. It can be used as indicating sleepiness, or boredom sometimes. It is also popularly used in an argument to piss the other person off."
   }
 ];
 
