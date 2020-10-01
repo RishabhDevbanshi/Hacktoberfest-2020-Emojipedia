@@ -7,7 +7,13 @@ A Wikipedia of emojis. Yes! Emojis too have meanings! 😉
 Ever saw an emoji and thought "Dude! What does this emoji mean? When can we use this one?"🤔. 
 Well, no need to worry now, this EMOJIPEDIA will make your life easier. 😇 It gives a brief description about different emojis, so that you need not be limited to those usual emojis and can easily find a perfect emoji for your imperfect situation. 😄
 
+# Check out our awesome website
+  <img src="/website_screenshot.jpg">
+  <p>Find it <a href="https://xiy62.csb.app/">here<a>.
+    We welcome anyone and everyone to contribute.</p>
+
 # Contributing
+
 
 1. Fork this repository. 📌
 2. Clone it to your local computer using `git clone` command. 💻🖥️
