@@ -87,6 +87,12 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 14,
+    emoji: "😯",
+    name: "Hushed Face",
+    meaning: "A yellow face with small, open eyes, raised eyebrows, and a small, open mouth, as if it has been hushed by concern or correction. Meaning widely varies, but its expression is commonly taken as surprise, embarrassment, or mild excitement."
   }
 ];
 
