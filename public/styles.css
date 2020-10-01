@@ -16,6 +16,7 @@ h1 {
 }
 
 h1 span {
+  border-radius: 30px;
   padding: 5px 15px;
   background: #fddb3a;
 }
@@ -36,7 +37,11 @@ h1 span {
   border-radius: 3px;
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
   background-color: #fff;
-  transition: all 100ms ease-in-out;
+}
+
+.dictionary>.term:hover {
+  border: 1px solid #000;
+  transition: 0.2 ease-in;
 }
 
 .dictionary>.term>dt {
