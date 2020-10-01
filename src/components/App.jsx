@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useState } from "react";
+import ReactSearchBox from "react-search-box";
 import emojipedia from "../emojipedia";
 import Emoji from "./Emoji";
 
@@ -14,12 +15,13 @@ function createEmoji(emoji) {
 }
 
 function App() {
+  let [results, setResults] = useState(emojipedia);
+
   return (
     <div>
       <h1>
         <span>Emojipedia</span>
       </h1>
-
       <dl className="dictionary">
         {emojipedia.map(createEmoji)}
         {/* <div className="term">
@@ -34,18 +36,6 @@ function App() {
             used in connection with doing sports, e.g. at the gym.
           </dd>
         </div>
-<div className="term">
-          <dt>
-            <span className="emoji" role="img" aria-label="Raising Hands">
-              🙌 
-            </span>
-            <span>Raising Hands</span>
-          </dt>
-          <dd>
-            “wo hands raised in the air, celebrating success or another joyous event. Raising Hands was approved as part of Unicode 6.0 in 2010 under the name “Person Raising Both Hands in Celebration” and added to Emoji 1.0 in 2015."
-          </dd>
-        </div>
-
         <div className="term">
           <dt>
             <span className="emoji" role="img" aria-label="Tense Biceps">
@@ -73,6 +63,24 @@ function App() {
           </dd>
         </div> */}
       </dl>
+      <div className="searchbox">
+        <ReactSearchBox
+          placeholder="Search for an Emoji..."
+          onChange={value => {
+            let regExp = new RegExp(value, "gi");
+            setResults(emojipedia.filter(element => regExp.test(element.name)));
+          }}
+          fuseConfigs={{
+            threshold: 0.05,
+          }}
+        />
+      </div>
+      <div style={{ margin: '4rem' }}>
+
+        <dl className="dictionary">
+          {results.map(createEmoji)}
+        </dl>
+      </div>
     </div>
   );
 }
