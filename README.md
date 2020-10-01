@@ -1,11 +1,11 @@
-# Emojipedia 
+# Emojipedia
 
-A wikipedia of emojis. Yes! emojis too have meanings ! 😉
+A wikipedia of emojis. Yes! emojis t<strong>∞</strong> have meanings ! 😉
 
 # Description
 
-Ever saw an emoji and thought "Dude! What does this emoji mean? When can we use this one?"🤔. 
-Well, no need to worry now, this EMOJIPEDIA will make your life easier then. It gives a brief description about different emojis, so that you need not be limited to those usual emojis and can easily find a perfect emoji for yout imperfect situation😄.
+Ever saw an emoji and thought "Dude! What does this emoji mean? When can we use this one?"🤔.
+Well, no need to worry now, this EMOJIPEDIA will make your life easier then. It gives a brief description about different emojis, so that you need not be limited to those usual emojis and can easily find a perfect emoji for your imperfect situation😄.
 
 # Contributing
 
@@ -25,4 +25,3 @@ Well, no need to worry now, this EMOJIPEDIA will make your life easier then. It 
   <li>Have any more idea to contribute and make it better</li>
 </ul>
 <h2>All feedbacks and suggestions are welcome! Everyone can contribute toward this project. Just <strong>FORK</strong> and make a <strong>PR</strong>.</h2>
-
