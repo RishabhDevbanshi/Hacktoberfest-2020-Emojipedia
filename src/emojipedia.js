@@ -87,6 +87,12 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 14,
+    emoji: "🤓",
+    name: "Nerd Face",
+    meaning: "The nerd face emoji caricatures a nerd with thick black glasses and buck teeth. It's used to signify learning, reading, being smart, acting dorky, or "geeking out" to your guilty pleasures."
   }
 ];
 
