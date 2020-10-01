@@ -10,8 +10,7 @@ Well, no need to worry now, this EMOJIPEDIA will make your life easier. 😇 It 
 
 # Check out our awesome website
   <img src="/website_screenshot.jpg">
-  <p>Find it <a href="https://xiy62.csb.app/">here<a>.
-    We welcome anyone and everyone to contribute.</p>
+  <p>Find it <a href="https://xiy62.csb.app/">here<a>.We welcome anyone and everyone to contribute.</p>
 
 Ever had that moment where you wondered, 'what on earth is that emoji'? 🤔 
 Yeah, us too. But with Emojipedia, you get a brief description about different emojis. You'll no longer be limited to the run-of-the-mill emojis, and will easily find the perfect fit. Self-expression couldn't get easier. 😄
