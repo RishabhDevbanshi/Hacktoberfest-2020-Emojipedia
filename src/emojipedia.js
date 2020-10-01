@@ -254,6 +254,18 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "🍕",
+    name: "Pizza",
+    meaning: "It's just a slice of pizza. It needs no more explanation... and that's perfect."
+  },
+  {
+    id: 39,
+    emoji: "⚡",
+    name: "High Voltage",
+    meaning: "The symbol of pop-culture electricity or anything that's fast."
   }
 ];
 
