@@ -139,6 +139,18 @@ const emojipedia = [
     meaning:
       'A yellow face with a big grin, uplifted eyebrows, and smiling eyes, each shedding a tear from laughing so hard. Widely used to show something is funny or pleasing.',
   },
+  {
+    id: 22,
+    emoji: "💂‍♀️",
+    name:"Woman Guard",
+    meaning: "A royal british female guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required."
+  },
+  {
+    id: 23,
+    emoji: "💂‍♂️",
+    name:"Man Guard",
+    meaning: "A royal british male guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required."
+  },
 ];
 
 export default emojipedia;
