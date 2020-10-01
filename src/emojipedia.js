@@ -87,6 +87,18 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 14,
+    emoji: "👍",
+    name: "Thumbs Up",
+    meaning: "A thumbs-up gesture is used to express assent, approval, or encouragement."
+  },
+  {
+    id: 15,
+    emoji: "👎",
+    name: "Thumbs Down",
+    meaning: "A thumbs-down gesture is used to express refuse, disapproval or discouragement."
   }
 ];
 
