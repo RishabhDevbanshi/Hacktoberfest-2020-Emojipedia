@@ -211,6 +211,12 @@ const emojipedia = [
     name: "Woman Gesturing No",
     meaning: "You know when saying yes would land you or someone else into trouble, being a villain and saying no is the best practice and this straightforward emoji could be really useful."
   },
+{
+    id: 34,
+    emoji: "🍆",
+    name: "Eggplant",
+    meaning: "A purple eggplant. First debuted in 2010, the eggplant emoji is really just an eggplant."
+  }
 ];
 
 export default emojipedia;
