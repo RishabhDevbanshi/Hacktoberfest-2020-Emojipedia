@@ -97,7 +97,7 @@ const emojipedia = [
   {
     id: 15,
     emoji: "💂‍♀️",
-    name:"Man Guard",
+    name:"Woman Guard",
     meaning: "A royal british female guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required."
   }
 ];
