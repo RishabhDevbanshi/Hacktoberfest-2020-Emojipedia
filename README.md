@@ -1,6 +1,6 @@
 # Emojipedia
 
-A wikipedia of emojis. Yes! emojis t<strong>∞</strong> have meanings ! 😉
+A wikipedia of emojis. Yes! emojis t<strong>ထ</strong> have meanings ! 😉
 
 # Description
 
