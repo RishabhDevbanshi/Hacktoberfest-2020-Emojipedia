@@ -87,71 +87,62 @@ const emojipedia = [
     id: 13,
     emoji: "🥺",
     name: "Pleading Face",
-<<<<<<< HEAD
-    meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
-  },
-  {
-    id: 14,
-    emoji: "🤓",
-    name: "NERD Face",
-    meaning: "Aaah look! We just found you. A yellow face smiling with thick, black-rimmed eyeglasses and buck teeth on most platforms. Styled after a stereotypical nerd."
-  },
-  {
-    id: 15,
-    emoji: "💩",
-    name: "Poop",
-    meaning: "A swirl of brown poop, shaped like soft-serve ice cream with large, excited eyes and a big, friendly smile. Yes, you can't unread it - 'soft serve ice-cream'"
-  },
-  {
-    id: 16,
-    emoji: "✨",
-    name: "Sparkles/Glitter/Shiny",
-    meaning: "The glittering flashes of sparkles. Generally depicted as a cluster of three, yellow four-point stars, with one large sparkle and two small ones to its left or right."
-  },
-  {
-      id: 17,
-      emoji:"🥰",
-      name: "In love face",
-      meaning: "Expresses a range of happy, affectionate feelings, especially being in love. The number of hearts (three or more) varies by platform."
-  },
-  {
-      id: 18,
-      emoji:"🥶",
-      name: "Cold Face",
-      meaning:"An icy-blue face with gritted teeth usually depicted with icicles clinging to its cheeks or jaw, as if frozen from extreme cold. May also represent unfriendliness (slang, cold) or excellence."
-  },
-  {
-    id: 19,
-    emoji: "😬",
-    name: "Awkward",
-    meaning: "Represents a range of negative or tense emotions, especially nervousness, embarrassment, or awkwardness (e.g., Eek!)."
-  },
-  {
-    id: 20,
-    emoji: '😘',
-    name: 'Face Blowing a Kiss',
-=======
     meaning:
       "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture.",
   },
   {
     id: 14,
+    emoji: "🤓",
+    name: "NERD Face",
+    meaning:
+      "Aaah look! We just found you. A yellow face smiling with thick, black-rimmed eyeglasses and buck teeth on most platforms. Styled after a stereotypical nerd.",
+  },
+  {
+    id: 15,
+    emoji: "💩",
+    name: "Poop",
+    meaning:
+      "A swirl of brown poop, shaped like soft-serve ice cream with large, excited eyes and a big, friendly smile. Yes, you can't unread it - 'soft serve ice-cream'",
+  },
+  {
+    id: 16,
+    emoji: "✨",
+    name: "Sparkles/Glitter/Shiny",
+    meaning:
+      "The glittering flashes of sparkles. Generally depicted as a cluster of three, yellow four-point stars, with one large sparkle and two small ones to its left or right.",
+  },
+  {
+    id: 17,
+    emoji: "🥰",
+    name: "In love face",
+    meaning:
+      "Expresses a range of happy, affectionate feelings, especially being in love. The number of hearts (three or more) varies by platform.",
+  },
+  {
+    id: 18,
+    emoji: "🥶",
+    name: "Cold Face",
+    meaning:
+      "An icy-blue face with gritted teeth usually depicted with icicles clinging to its cheeks or jaw, as if frozen from extreme cold. May also represent unfriendliness (slang, cold) or excellence.",
+  },
+  {
+    id: 19,
+    emoji: "😬",
+    name: "Awkward",
+    meaning:
+      "Represents a range of negative or tense emotions, especially nervousness, embarrassment, or awkwardness (e.g., Eek!).",
+  },
+  {
+    id: 20,
     emoji: "😘",
     name: "Face Blowing a Kiss",
->>>>>>> dbece7c... add jolly roger flags
     meaning:
       "A yellow face winking with puckered lips blowing a kiss, depicted as a small, red heart. May represent a kiss goodbye or good night and convey feelings of love and affection more generally.",
   },
   {
-<<<<<<< HEAD
     id: 21,
-    emoji: '😂',
-    name: 'Face with Tears of Joy',
-=======
-    id: 15,
     emoji: "😂",
     name: "Face with Tears of Joy",
->>>>>>> dbece7c... add jolly roger flags
     meaning:
       "A yellow face with a big grin, uplifted eyebrows, and smiling eyes, each shedding a tear from laughing so hard. Widely used to show something is funny or pleasing.",
   },
@@ -164,14 +155,16 @@ const emojipedia = [
   {
     id: 22,
     emoji: "💂‍♀️",
-    name:"Woman Guard",
-    meaning: "A royal british female guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required."
+    name: "Woman Guard",
+    meaning:
+      "A royal british female guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required.",
   },
   {
     id: 23,
     emoji: "💂‍♂️",
-    name:"Man Guard",
-    meaning: "A royal british male guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required."
+    name: "Man Guard",
+    meaning:
+      "A royal british male guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required.",
   },
 ];
 
