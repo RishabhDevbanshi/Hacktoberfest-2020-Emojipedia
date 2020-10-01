@@ -87,7 +87,25 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
-  }
+  },
+  {
+    id: 14,
+    emoji: "🤡",
+    name: "Clown Face",
+    meaning: "A classic circus or birthday clown. May convey that someone is silly or foolish or that something is creepy or scary."
+  },
+  {
+    id: 15,
+    emoji: "💋",
+    name: "Kiss Mark",
+    meaning: "The mark left after a firm kiss is placed with bright lipstick. Used in place of ‘xxx’ (kisses), or to send a kiss to someone. More seductive than the kiss emoji."
+  },
+  {
+    id: 16,
+    emoji: "🤙",
+    name: "Call Me Hand",
+    meaning: "A hand with thumb and little (pinky) finger extended, making a traditional phone-like shape. May be used in conjunction with a face to suggest “call me” (please)."
+  },
 ];
 
 export default emojipedia;
