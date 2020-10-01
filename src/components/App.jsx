@@ -34,6 +34,18 @@ function App() {
             used in connection with doing sports, e.g. at the gym.
           </dd>
         </div>
+<div className="term">
+          <dt>
+            <span className="emoji" role="img" aria-label="Raising Hands">
+              🙌 
+            </span>
+            <span>Raising Hands</span>
+          </dt>
+          <dd>
+            “wo hands raised in the air, celebrating success or another joyous event. Raising Hands was approved as part of Unicode 6.0 in 2010 under the name “Person Raising Both Hands in Celebration” and added to Emoji 1.0 in 2015."
+          </dd>
+        </div>
+
         <div className="term">
           <dt>
             <span className="emoji" role="img" aria-label="Tense Biceps">
