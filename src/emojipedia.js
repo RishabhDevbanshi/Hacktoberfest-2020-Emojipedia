@@ -78,7 +78,7 @@ const emojipedia = [
   },
   {
     id: 12,
-    emoji: "🥰",
+    emoji: "😍",
     name: "Smiling Face with Hearts",
     meaning:
       "A yellow face with smiling eyes, a closed smile, rosy cheeks, and several hearts floating around its head. Expresses a range of happy, affectionate feelings, especially being in love."
@@ -254,7 +254,56 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
-  }
+  },
+  {
+   id: 38,
+   emoji: "👏",
+   name: "wave",
+   meaning:
+     "A hand waving most commonly used to say “hello” or “goodbye”.This emoji can be used to convey a sense of not being friends anymore"
+  },
+  {
+   id: 39,
+   emoji: "👌",
+   name: "Ok hand",
+   meaning:
+     "A gesture showing the index finger and thumb touching to make an open circle. Represents “I’m okay” or “yes, that’s correct/good”."
+  },
+  {
+   id: 40,
+   emoji: "🤑",
+   name: "money_mouth_face",
+   meaning:
+     "Emoji Meaning A yellow face with raised eyebrows, dollar signs for eyes, and an open smile sticking out a tongue styled after a green,…"
+  },
+  {
+   id: 41,
+   emoji: "💻",
+   name: "Laptop",
+   meaning:
+     "A laptop personal computer. Depicted as a black or gray device, opened to show a dark or blue screen, keyboard, and touchpad."
+  },
+    {
+   id: 42,
+   emoji: "👻",
+   name: "ghost",
+   meaning:
+     "Boo! A white, cartoon ghost making a silly face. Its tongue is stuck out and arms are outstretched, as if trying to scare someone in a friendly way."
+  },
+    {
+   id: 43,
+   emoji: "👽",
+   name: "alien",
+   meaning:
+     "A classic alien face. The oval, bare head of a gray or green alien with large black eyes and a slight, friendly smile."
+  },
+  {
+   id: 44,
+   emoji: "🤖",
+   name: "robot",
+   meaning:
+     "The head of a classic robot. Commonly depicted as a vintage, tin toy robot with circular eyes, a triangular nose, knobs for ears."
+   }
 ];
 
 export default emojipedia;
