@@ -87,6 +87,12 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 14,
+    emoji: "💡",
+    name: "Electric light Bulb",
+    meaning: "Aha! While the electric light bulb emoji can stand for electric power and lighting, it often represents a sudden insight, knowledge, or thought in general—basically anything "bright" in the metaphorical sense."."
   }
 ];
 
