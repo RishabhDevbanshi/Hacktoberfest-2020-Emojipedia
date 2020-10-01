@@ -87,6 +87,18 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id : 14,
+    emoji : "😂",
+    name : "Laughing Emoji",
+    meaning : "A yellow face, laughing with tears coming out from eyes"
+  },
+  {
+    id: 15, 
+    emoji : "💩",
+    name : "Poop Emoji",
+    meaning: "A brown poop with a smiling face on it"
   }
 ];
 
