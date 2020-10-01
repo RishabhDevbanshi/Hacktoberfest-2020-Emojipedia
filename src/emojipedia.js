@@ -141,7 +141,19 @@ const emojipedia = [
   },
   {
     id: 22,
-    emoji: '🔥',
+    emoji: "💂‍♀️",
+    name:"Woman Guard",
+    meaning: "A royal british female guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required."
+  },
+  {
+    id: 23,
+    emoji: "💂‍♂️",
+    name:"Man Guard",
+    meaning: "A royal british male guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required."
+  },
+  {
+      id: 24,
+        emoji: '🔥',
     name: 'Fire',
     meaning: 'A flame, as produced when something is on fire. Depicted as a red, orange, and yellow flickering flame.',
   },
