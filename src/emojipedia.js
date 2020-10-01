@@ -139,6 +139,12 @@ const emojipedia = [
     meaning:
       'A yellow face with a big grin, uplifted eyebrows, and smiling eyes, each shedding a tear from laughing so hard. Widely used to show something is funny or pleasing.',
   },
+    {
+    id: 22,
+    emoji: '✨',
+    name: 'Sparkles',
+    meaning: 'The glittering flashes of sparkles. Generally depicted as a cluster of three, yellow four-point stars, with one large sparkle and two small ones to its left or right.',
+  },
 ];
 
 export default emojipedia;
