@@ -261,6 +261,41 @@ const emojipedia = [
     name: "Cow",
     meaning:
       "A cow, a bovine farmed for its meat or milk. Depicted in full profile on all fours facing left with a black-and-white patched coat, a pink udder and horns."
+  },
+  {
+    id: 39,
+    emoji: "🐶",
+    name: "Dog",
+    meaning:
+      "A sweet dog face with a panting tongue and floppy ears. Stands for unconditional loyalty and attention."
+  },
+  {
+    id: 40,
+    emoji: "🐱",
+    name: "Cat",
+    meaning:
+      "Meow! A friendly, cartoon-styled face of a cat, looking straight ahead. Generally depicted as a yellowish-orange cat face with pointed ears and whiskers."
+  },
+  {
+    id: 41,
+    emoji: "🦁",
+    name: "Lion",
+    meaning:
+      "A cute lion face, the king of animals and the jungle. A powerful, dangerous predator, a sublime ruler over its pack and a symbol of power."
+  },
+  {
+    id: 42,
+    emoji: "🐅",
+    name: "Tiger",
+    meaning:
+      "A tiger, a large cat with an orange coat and black stripes. Depicted in full profile on all fours facing left, with a long tail, its distinctive stripes and white patches."
+  },
+  {
+    id: 43,
+    emoji: "🐍",
+    name: "Snake",
+    meaning:
+      "The hissing snake stands for furtiveness and deception. A person pretends to be your friend, but is badmouthing you behind your back. Also represents a zodiac sign in the Chinese horoscope."
   }
 ];
 
