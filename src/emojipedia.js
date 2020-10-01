@@ -87,6 +87,12 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 14,
+    emoji: "🥳",
+    name: "Partying Face",
+    meaning: "A yellow face with a party hat blowing a party horn. Used for celebrating joyous occasions (such as a Birthday Party or World Emoji Day) and indicates having a fun time."
   }
 ];
 
