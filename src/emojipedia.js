@@ -139,6 +139,12 @@ const emojipedia = [
     meaning:
       'A yellow face with a big grin, uplifted eyebrows, and smiling eyes, each shedding a tear from laughing so hard. Widely used to show something is funny or pleasing.',
   },
+  {
+    id: 22,
+    emoji: '🔥',
+    name: 'Fire',
+    meaning: 'A flame, as produced when something is on fire. Depicted as a red, orange, and yellow flickering flame.',
+  },
 ];
 
 export default emojipedia;
