@@ -19,7 +19,11 @@ Yeah, us too. But with Emojipedia, you get a brief description about different e
 
 1. Fork this repository. 📌
 2. Clone it to your local computer using `git clone` command. 💻🖥️
-3. Use `git remote` add upstream https://github.com/RishabhDevbanshi/Emojipedia.git and then `git pull upstream master` to keep your local repo up-to-date with this repository. 🧮
+3. Use<br />
+  `git remote add upstream https://github.com/RishabhDevbanshi/Emojipedia.git` <br />
+  and then <br />
+  `git pull upstream master` <br />
+  to keep your local repo up-to-date with this repository. 🧮
 4. Make required changes and improvements. 🧠
 5. Make a pull request. ✌️
 
