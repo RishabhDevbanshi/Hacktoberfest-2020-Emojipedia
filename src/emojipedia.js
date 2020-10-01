@@ -186,7 +186,31 @@ const emojipedia = [
     emoji: "⏰",
     name: "Alarm Clock",
     meaning: "A timepiece set in advance to startle a person awake at the designated time with its two bells. That is, before hitting snooze. Appearance varies across platforms, but depicted as a classic, wind-up, bedside alarm clock, often red in color. May be used for various content concerning alarms, alerts, sleeping, waking, and time more generally."
-  }
+  },
+   {
+    id: 30,
+    emoji: "🧏",
+    name: "Deaf Woman",
+    meaning: "The sign used for showing a deaf person when she is a female."
+  },
+  {
+    id: 31,
+    emoji: "👆",
+    name: "Backhand Finger Pointing Upwards",
+    meaning: "The emoji could be used as a symbol of agreement with the person messaging or commenting above you as well as for pointing upwards when used with other emoji."
+  },
+  {
+    id: 32,
+    emoji: "✍️",
+    name: "Writing Hand",
+    meaning: "The gesture could be used to tell someone that you’re paying attention or taking down the points, but could be used to depict a promise of writing back."
+  },
+  {
+    id: 33,
+    emoji: "🙅",
+    name: "Woman Gesturing No",
+    meaning: "You know when saying yes would land you or someone else into trouble, being a villain and saying no is the best practice and this straightforward emoji could be really useful."
+  },
 ];
 
 export default emojipedia;
