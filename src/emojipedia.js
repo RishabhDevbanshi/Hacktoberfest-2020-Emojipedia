@@ -147,12 +147,6 @@ const emojipedia = [
       "A yellow face with a big grin, uplifted eyebrows, and smiling eyes, each shedding a tear from laughing so hard. Widely used to show something is funny or pleasing.",
   },
   {
-    emoji: "🏴‍☠️",
-    name: "Jolly Roger Flag",
-    meaning:
-      "Historically, the skull and crossbones symbol was used by pirate ships to inform the targets they're about to attack.",
-  },
-  {
     id: 22,
     emoji: "💂‍♀️",
     name: "Woman Guard",
@@ -165,6 +159,13 @@ const emojipedia = [
     name: "Man Guard",
     meaning:
       "A royal british male guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required.",
+  },
+  {
+    id: 24,
+    emoji: "🏴‍☠️",
+    name: "Jolly Roger Flag",
+    meaning:
+      "Historically, the skull and crossbones symbol was used by pirate ships to inform the targets they're about to attack.",
   },
 ];
 
