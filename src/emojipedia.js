@@ -151,6 +151,12 @@ const emojipedia = [
     name:"Man Guard",
     meaning: "A royal british male guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required."
   },
+  {
+      id: 24,
+        emoji: '🔥',
+    name: 'Fire',
+    meaning: 'A flame, as produced when something is on fire. Depicted as a red, orange, and yellow flickering flame.',
+  },
 ];
 
 export default emojipedia;
