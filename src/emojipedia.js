@@ -25,7 +25,7 @@ const emojipedia = [
     emoji: "😎",
     name: "Face With Sunglasses",
     meaning:
-      "I'm the king of the world! Mr. Cool Smiley with sunglasses. Is totally self-assured and relaxed. Everything is absolutely easy and cool. Also a symbol for sun, summer holidays, and holidays on the beach.“.",
+      "I'm the king of the world! Mr. Cool Smiley with sunglasses. Is totally self-assured and relaxed. Everything is absolutely easy and cool. Also a symbol for sun, summer holidays, and holidays on the beach.“."
   },
   {
     id: 5,
@@ -151,7 +151,7 @@ const emojipedia = [
     emoji: "💂‍♀️",
     name: "Woman Guard",
     meaning:
-      "A royal british female guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required.",
+      "A royal british female guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required."
   },
   {
     id: 23,
@@ -162,11 +162,106 @@ const emojipedia = [
   },
   {
     id: 24,
+    emoji: "🔥",
+    name: "Fire",
+    meaning:
+      "A flame, as produced when something is on fire. Depicted as a red, orange, and yellow flickering flame."
+  },
+  {
+    id: 25,
+    emoji: "💌",
+    name: "Love Letter",
+    meaning:
+      "The back of an envelope, generally shown in white and sealed with a red heart. Represents a love letter or note, valentine, or affectionate greeting card. Commonly used to convey various feelings or messages of love and happiness."
+  },
+  {
+    id: 26,
+    emoji: "💣",
+    name: "Bomb",
+    meaning: `A cartoon-styled bomb, depicted as a black ball with a burning fuse. Commonly used for various figurative bombs or explosions, e.g., slang bomb, a “home run” in baseball or softball; "excellent" or "attractive." Sometimes applied in contexts of war, weapons, or violence.`
+  },
+  {
+    id: 27,
+    emoji: "🧱",
+    name: "Brick",
+    meaning: `A red brick or bricks. Depicted in a loose stack, a single object with holes, or as built into wall, as of a house, school, or other structure. Commonly used for various content concerning building and construction. May also be used for figurative bricks, e.g., slang brick, “extremely cold (weather).”`
+  },
+  {
+    id: 28,
+    emoji: "🧭",
+    name: "Compass",
+    meaning:
+      "A magnetic compass, as used for navigation. Generally depicted in a silver or gold case with a compass rose and a red-tipped needle. Commonly used for various content concerning traveling and exploring as well as metaphorical compasses (e.g., moral compass)."
+  },
+  {
+    id: 29,
+    emoji: "⏰",
+    name: "Alarm Clock",
+    meaning:
+      "A timepiece set in advance to startle a person awake at the designated time with its two bells. That is, before hitting snooze. Appearance varies across platforms, but depicted as a classic, wind-up, bedside alarm clock, often red in color. May be used for various content concerning alarms, alerts, sleeping, waking, and time more generally."
+  },
+  {
+    id: 30,
+    emoji: "🧏",
+    name: "Deaf Woman",
+    meaning: "The sign used for showing a deaf person when she is a female."
+  },
+  {
+    id: 31,
+    emoji: "👆",
+    name: "Backhand Finger Pointing Upwards",
+    meaning:
+      "The emoji could be used as a symbol of agreement with the person messaging or commenting above you as well as for pointing upwards when used with other emoji."
+  },
+  {
+    id: 32,
+    emoji: "✍️",
+    name: "Writing Hand",
+    meaning:
+      "The gesture could be used to tell someone that you’re paying attention or taking down the points, but could be used to depict a promise of writing back."
+  },
+  {
+    id: 33,
+    emoji: "🙅",
+    name: "Woman Gesturing No",
+    meaning:
+      "You know when saying yes would land you or someone else into trouble, being a villain and saying no is the best practice and this straightforward emoji could be really useful."
+  },
+  {
+    id: 34,
+    emoji: "🍆",
+    name: "Eggplant",
+    meaning:
+      "A purple eggplant. First debuted in 2010, the eggplant emoji is really just an eggplant."
+  },
+  {
+    id: 35,
+    emoji: "🎉",
+    name: "Party popper",
+    meaning:
+      "A gold colored cone popper with blue and red confetti about to burst into the air. Can be used normally when congratulating someone."
+  },
+  {
+    id: 36,
+    emoji: "🧨",
+    name: "Firecracker",
+    meaning:
+      "A red tube with a burning fuse. This emoji is often used in celebratory dates like New Year's eve."
+  },
+  {
+    id: 37,
+    emoji: "🎯",
+    name: "Bullseye",
+    meaning:
+      "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+    {
+    id: 38,
     emoji: "🏴‍☠️",
     name: "Jolly Roger Flag",
     meaning:
       "Historically, the skull and crossbones symbol was used by pirate ships to inform the targets they're about to attack.",
-  },
+  }
 ];
 
 export default emojipedia;
