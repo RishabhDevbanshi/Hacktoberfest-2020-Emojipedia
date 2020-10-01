@@ -77,7 +77,6 @@ const emojipedia = [
   },
   {
     id: 12,
-<<<<<<< HEAD
     emoji: "😈",
     name: "Smiling Face with Horns",
     meaning: "Commonly used to convey mischief, naughtiness, and excitement or excellence (slang, bad or wicked). May also represent devils or devilish behavior, especially around Halloween“."
@@ -111,18 +110,19 @@ const emojipedia = [
     emoji: "🥴",
     name: "Woozy Face",
     meaning: "A yellow face with a crumpled mouth and a cockeyed expression, as if tired and emotional from inebriation or smitten with love. Depicted with raised or furrowed eyebrows and at least one eye half-open. WhatsApp's design features a tongue hanging out“."
-=======
+  },
+{
+  id: 18,
     emoji: "🥰",
     name: "Smiling Face with Hearts",
     meaning: "A yellow face with smiling eyes, a closed smile, rosy cheeks, and several hearts floating around its head. Expresses a range of happy, affectionate feelings, especially being in love."
 
   },
   {
-    id: 13,
+    id: 10,
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
->>>>>>> 0c76fb5b9bcbf05214c43512132c046f2680cb48
   }
 ];
 
