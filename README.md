@@ -11,8 +11,8 @@ Well, no need to worry now, this EMOJIPEDIA will make your life easier then😇.
 
 ```
 1. Fork this repository📌. 
-2. Clone it to your local computer using <strong>git clone</strong> command 💻🖥️.
-3. Install all dependencies using <strong>npm install</strong>🧮.
+2. Clone it to your local computer using git clone command 💻🖥️.
+3. Install all dependencies using npm install🧮.
 4. Make required changes and improvements🧠.
 5. Make a pull request✌️.
 ```
