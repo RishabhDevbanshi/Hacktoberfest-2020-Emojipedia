@@ -9,12 +9,13 @@ Well, no need to worry now, this EMOJIPEDIA will make your life easier then😇.
 
 # Contributing
 
+```
 1. Fork this repository📌. 
 2. Clone it to your local computer using <strong>git clone</strong> command 💻🖥️.
 3. Install all dependencies using <strong>npm install</strong>🧮.
 4. Make required changes and improvements🧠.
 5. Make a pull request✌️.
-
+```
 <h5>Don't forget to give this repository a STAR.⭐</h5>
 
 # Feel Free to open a issue
