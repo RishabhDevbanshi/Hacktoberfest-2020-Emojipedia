@@ -9,8 +9,7 @@ Well, no need to worry now, this EMOJIPEDIA will make your life easier. 😇 It 
 
 # Check out our awesome website
   <img src="/website_screenshot.jpg">
-  <p>Find it <a href="https://xiy62.csb.app/">here<a>.
-    We welcome anyone and everyone to contribute.</p>
+  <p>Find it <a href="https://xiy62.csb.app/">here<a>.We welcome anyone and everyone to contribute.</p>
 
 # Contributing
 
