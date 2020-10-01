@@ -1,6 +1,7 @@
 # Emojipedia 
 
-A Wikipedia of emojis. Yes! Emojis too have meanings! 😉
+
+A wikipedia of emojis. Yes! Emojis too have meanings! And each one, is unique and interesting in itself.😉
 
 # Description
 
@@ -12,23 +13,25 @@ Well, no need to worry now, this EMOJIPEDIA will make your life easier. 😇 It 
   <p>Find it <a href="https://xiy62.csb.app/">here<a>.
     We welcome anyone and everyone to contribute.</p>
 
-# Contributing
+Ever had that moment where you wondered, 'what on earth is that emoji'? 🤔 
+Yeah, us too. But with Emojipedia, you get a brief description about different emojis. You'll no longer be limited to the run-of-the-mill emojis, and will easily find the perfect fit. Self-expression couldn't get easier. 😄
 
 
 1. Fork this repository. 📌
 2. Clone it to your local computer using `git clone` command. 💻🖥️
-3. Install all dependencies using `npm install`. 🧮
+3. Use `git remote` add upstream https://github.com/RishabhDevbanshi/Emojipedia.git and then `git pull upstream master` to keep your local repo up-to-date with this repository. 🧮
 4. Make required changes and improvements. 🧠
 5. Make a pull request. ✌️
 
-<h5>Don't forget to give this repository a STAR.⭐</h5>
+<h5>Don't forget to give this repository a star! ⭐</h5>
 
 # Feel Free to open a issue
 
 <ul>
-  <li>Have some errors or bugs?</li>
-  <li>Something is not rendering properly?</li>
-  <li>Have any more idea to contribute and make it better?</li>
+  <li>If you find errors or bugs.</li>
+  <li>Something isn't rendering properly.</li>
+  <li>Have an idea to contribute to the project.</li>
 </ul>
-<h2>All feedbacks and suggestions are welcome! Everyone can contribute towards this project✨. Just <strong>FORK</strong> and make a <strong>PR</strong>.</h2>
+
+<h2>All feedbacks and suggestions are welcome! Everyone can contribute toward this project✨. Just <strong>FORK</strong> and make a <strong>PR</strong>.</h2>
 
