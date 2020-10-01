@@ -87,6 +87,12 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+ {
+    id: 14,
+    emoji: "😏",
+    name: "Smirking Face emoji ",
+    meaning: "Adding this emoji to a text indicates you are flirting or sending a suggestive message. On social media it can also mean you are feeling smug and self-satisfied because you just did something baller."
   }
 ];
 
