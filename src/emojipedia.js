@@ -87,6 +87,18 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 14,
+    emoji: "💂‍♂️",
+    name:"Man Guard",
+    meaning: "A royal british male guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required."
+  },
+  {
+    id: 15,
+    emoji: "💂‍♀️",
+    name:"Man Guard",
+    meaning: "A royal british female guard. A strict person who is not allowed to show any emotion. May stand guard outside the Buckingham Palace and not move an inch unless required."
   }
 ];
 
