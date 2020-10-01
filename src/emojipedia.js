@@ -211,6 +211,18 @@ const emojipedia = [
     name: "Woman Gesturing No",
     meaning: "You know when saying yes would land you or someone else into trouble, being a villain and saying no is the best practice and this straightforward emoji could be really useful."
   },
+  {
+    id: 34,
+    emoji: "👏",
+    name: "Clap",
+    meaning: "The sign is used for indicating a clap. When used more than once, it can also mean to giving an applause."
+  },
+  {
+    id: 35,
+    emoji: "🥱",
+    name: "Yawning Face",
+    meaning: "A Yawning Face emoji is used for many things. It can be used as indicating sleepiness, or boredom sometimes. It is also popularly used in an argument."
+  }
 ];
 
 export default emojipedia;
