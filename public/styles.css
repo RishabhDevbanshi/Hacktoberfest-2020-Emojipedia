@@ -28,7 +28,7 @@ h1 span {
   max-width: 90%;
 }
 
-.dictionary>.term {
+.dictionary > .term {
   text-align: center;
   max-width: 20rem;
   margin-bottom: 3rem;
@@ -39,7 +39,7 @@ h1 span {
   transition: all 100ms ease-in-out;
 }
 
-.dictionary>.term>dt {
+.dictionary > .term > dt {
   margin-bottom: 1rem;
 }
 
@@ -80,4 +80,20 @@ dd dl {
 
 dd dl .term {
   margin-bottom: 1rem;
+}
+
+
+@media only screen and (max-width: 800px) {
+  .dictionary {
+    justify-content: center;
+  }
+  
+.searchbox {
+  width: 100%;
+}
+  
+.searchbox input[type="text"] {
+  width: 40%;
+  margin: 0 auto;
+
 }
