@@ -87,6 +87,12 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+    {
+    id: 14,
+    emoji: "😡",
+    name: "Pouting Face",
+    meaning: "A red face with an angry expression frowning mouth with eyes and eyebrows scrunched downward. Angry Face on most platforms and may convey more intense degrees of anger, e.g., hate or rage."
   }
 ];
 
