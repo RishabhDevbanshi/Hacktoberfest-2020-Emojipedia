@@ -254,7 +254,28 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
-  }
+  },
+  {
+    id: 38,
+    emoji: "✊",
+    name: "Raised Fist",
+    meaning:
+    "A brown fist raised in the air, commonly used to represent the #BlackLivesMatter movement."
+  },
+  {
+    id: 39,
+    emoji: "🗻",
+    name: "Mount Fuji",
+    meaning:
+    "Mount Fuji (called Fuji-san in Japan) is the largest mountain in Japan. Often seen with snow on the peak in colder months of the year."
+  },
+  {
+    id: 40,
+    emoji: "🗽",
+    name: "Liberty Statue",
+    meaning:
+    "The Statue of Liberty, often used as a depiction of New York City."
+  } 
 ];
 
 export default emojipedia;
