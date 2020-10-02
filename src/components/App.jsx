@@ -14,6 +14,10 @@ function createEmoji(emoji) {
   );
 }
 
+function EmptyComponent() {
+  return <dt>No Results found</dt>;
+}
+
 function App() {
   let [results, setResults] = useState(emojipedia);
 
@@ -38,7 +42,7 @@ function App() {
       <div style={{ margin: '4rem' }}>
 
         <dl className="dictionary">
-          {results.map(createEmoji)}
+          { results.length ? results.map(createEmoji) : <EmptyComponent />}
         </dl>
       </div>
     </div>
