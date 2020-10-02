@@ -89,13 +89,13 @@ const emojipedia = [
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
   },
   {
-    id: 16,
+    id: 38,
     emoji: "🏳️‍🌈",
     name: "Rainbow Flag",
     meaning: "Represent people of colour, and baby blue, pink and white to include the trans flag. Generally used to celebrate by trans people."
   },
   {
-    id: 17,
+    id: 39,
     emoji: "🏡",
     name: "Working from Home",
     meaning: "A house with tree, generally used to represent that you are working from home."
