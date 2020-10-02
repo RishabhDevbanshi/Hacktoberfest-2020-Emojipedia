@@ -242,6 +242,18 @@ const emojipedia = [
       "A gold colored cone popper with blue and red confetti about to burst into the air. Can be used normally when congratulating someone."
   },
   {
+
+    id: 34,
+    emoji: "👏",
+    name: "Clap",
+    meaning: "The sign is used for indicating a clap. When used more than once, it can also mean to giving an applause."
+  },
+  {
+    id: 35,
+    emoji: "🥱",
+    name: "Yawning Face",
+    meaning: "A yellow face with eyes closed and mouth wide open covered with a hand, is used for various things. It can be used as indicating sleepiness, or boredom sometimes. It is also popularly used in an argument to piss the other person off."
+  },
     id: 36,
     emoji: "🧨",
     name: "Firecracker",
@@ -254,6 +266,7 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+
   }
 ];
 
