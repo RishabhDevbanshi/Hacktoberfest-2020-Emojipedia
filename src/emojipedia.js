@@ -87,8 +87,25 @@ const emojipedia = [
     id: 13,
     emoji: "🥺",
     name: "Pleading Face",
-    meaning:
-      "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+    meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id: 14,
+    emoji: "👀",
+    name: "Eyes",
+    meaning: "Sometimes used to indicate ‘pervy eyes’ to indicate approval of an attractive photo posted online; or ‘shifty eyes’ to convey a deceitful act."
+  },
+  {
+    id: 15,
+    emoji: "👌",
+    name: "Victory Hand",
+    meaning: "Most commonly known as a Peace Sign, but traditionally called as a Victory Hand. Two fingers held up on one hand making a V sign."
+  },
+  {
+    id: 16,
+    emoji: "😮",
+    name: "Face with open mouth",
+    meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
   },
   {
     id: 14,
