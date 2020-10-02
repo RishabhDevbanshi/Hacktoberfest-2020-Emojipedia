@@ -254,7 +254,42 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
-  }
+  },
+    {
+    id: 38,
+    emoji: "🌋",
+    name: "Volcano",
+    meaning:
+      "A volcano is an opening in the earth's crust through which lava, volcanic ash, and gases escape."
+  },
+   {
+    id: 39,
+    emoji: "🏠",
+    name: "House",
+    meaning:
+      "A house is a single-unit residential building, if someone generally family or a person is living in it, called as home."
+  },
+  {
+    id: 40,
+    emoji: "👪",
+    name: "Family",
+    meaning:
+      "A group consisting of two parents and their children living together as a unit."
+  },
+   {
+    id: 41,
+    emoji: "🏏",
+    name: "Cricket Game",
+    meaning:
+      "Cricket Bat and Ball, a game played between two teams of 11 players each."
+  },
+   {
+    id: 42,
+    emoji: "🍕",
+    name: "Pizza",
+    meaning:
+      "A slice of pizza, topped with black olives or green pepper."
+  } 
 ];
 
 export default emojipedia;
