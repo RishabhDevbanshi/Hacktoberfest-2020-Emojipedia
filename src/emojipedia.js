@@ -87,8 +87,13 @@ const emojipedia = [
     id: 13,
     emoji: "🥺",
     name: "Pleading Face",
-    meaning:
-      "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+    meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  {
+    id:38,
+    emoji:"🥱",
+    name:"Yawning face",
+    meaning: "A yellow face with a sleepy yawning expression. It may also express that some stuff is boring."
   },
   {
     id: 14,
@@ -254,6 +259,7 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+
   }
 ];
 
