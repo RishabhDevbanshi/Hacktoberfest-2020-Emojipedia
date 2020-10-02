@@ -254,6 +254,38 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji:"❤️",
+    name: "Red Heart",
+    meaning: "A red heart is a symbol of love, passion and good feelings."
+  },
+  {
+    id: 39,
+    emoji: "🧡",
+    name: "Orange Heart",
+    meaning: "Orange heart emoji means friendship and care. You can send this heart to people to show that you like them as a friend."
+  },
+  {
+    id: 40,
+    emoji: "💛",
+    meaning: "Yellow heart emoji signifies frienship. You can use this emoji to send it to your friends and people who make you laugh."
+  },
+  {
+    id: 41,
+    emoji: "💚",
+    meaning: "Green heart emoji signifies the feeling of jealousy and enviousness.You can send it to people if you want to show that you are jealous of that person.It is also used to promote vegetarianism."
+  },
+  {
+    id: 42,
+    emoji: "💙",
+    meaning: "Blue heart emoji signifies confidence, trust and respect.You can use blue hearts to encourage someone."
+  },
+  {
+    id: 43,
+    emoji: "💜",
+    meaning: "Purple emoji signifies extravagance, glamour and magic.While texting you can send it to people to show that you are into them physically."
   }
 ];
 
