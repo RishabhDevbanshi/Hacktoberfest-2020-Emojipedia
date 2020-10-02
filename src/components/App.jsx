@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 import ReactSearchBox from "react-search-box";
 import emojipedia from "../emojipedia";
 import Emoji from "./Emoji";
@@ -27,18 +27,20 @@ function App() {
         <ReactSearchBox
           placeholder="Search for an Emoji..."
           onChange={value => {
-              let regExp = new RegExp(value, "gi");
-              setResults(emojipedia.filter(element => regExp.test(element.name)));
+            let regExp = new RegExp(value, "gi");
+            setResults(emojipedia.filter(element => regExp.test(element.name)));
           }}
           fuseConfigs={{
             threshold: 0.05,
           }}
-         />
-       </div>
+        />
+      </div>
+      <div style={{ margin: '4rem' }}>
 
-      <dl className="dictionary">
-        {results.map(createEmoji)}
-      </dl>
+        <dl className="dictionary">
+          {results.map(createEmoji)}
+        </dl>
+      </div>
     </div>
   );
 }

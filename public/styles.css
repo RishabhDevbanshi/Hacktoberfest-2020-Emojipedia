@@ -24,8 +24,6 @@ h1 span {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 4rem auto;
-  max-width: 90%;
 }
 
 .dictionary > .term {
@@ -37,6 +35,11 @@ h1 span {
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
   background-color: #fff;
   transition: all 100ms ease-in-out;
+}
+@media only screen and (max-width: 986px) {
+.term {
+  min-width: 100%;
+}
 }
 
 .dictionary > .term > dt {
