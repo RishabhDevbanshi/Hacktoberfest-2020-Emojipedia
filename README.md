@@ -10,7 +10,7 @@ Well, no need to worry now, this EMOJIPEDIA will make your life easier. 😇 It 
 
 # <u>Check out our awesome website</u>
   <img src="/website_screenshot.jpg">
-  <p>Find it <a href="https://xiy62.csb.app/">here<a>.
+  <p>Find it <a href="https://rishabhdevbanshi.github.io/Emojipedia/">here<a>.
     We welcome anyone and everyone to contribute.</p>
 
 Ever had that moment where you wondered, 'what on earth is that emoji'? 🤔 
