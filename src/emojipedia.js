@@ -255,6 +255,13 @@ const emojipedia = [
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
   }
+  {
+    id: 38,
+    emoji: "🕴️",
+    name: "Hovering Man",
+    meaning:
+      "A man wearing a suit, hovering above the ground with a shadow displayed beneath him."
+  }
 ];
 
 export default emojipedia;
