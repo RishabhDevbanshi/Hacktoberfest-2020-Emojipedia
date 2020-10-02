@@ -255,6 +255,13 @@ const emojipedia = [
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
   }
+    {
+    id: 38,
+    emoji: "😈",
+    name: "Evil face",
+    meaning: "A red face with horns and a smirk that will  make satan proud."
+  },
+ 
 ];
 
 export default emojipedia;
