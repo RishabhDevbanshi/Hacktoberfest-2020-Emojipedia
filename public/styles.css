@@ -45,10 +45,17 @@ h1 span {
 	background-color: #fff;
 	transition: all 100ms ease-in-out;
 	margin: 0 auto 3rem;
+
+}
+@media only screen and (max-width: 986px) {
+.term {
+  min-width: 100%;
+}
 }
 
 .dictionary > .term > dt {
 	margin-bottom: 1rem;
+
 }
 
 dt {
@@ -104,4 +111,17 @@ dd dl .term {
 	100% {
 		transform: scale(1.2);
 	}
+
+@media only screen and (max-width: 800px) {
+  .dictionary {
+    justify-content: center;
+  }
+  
+.searchbox {
+  width: 100%;
+}
+  
+.searchbox input[type="text"] {
+  width: 40%;
+  margin: 0 auto;
 }
