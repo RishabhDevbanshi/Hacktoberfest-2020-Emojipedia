@@ -1,5 +1,5 @@
 body {
-  font-family: 'Oxygen Mono', monospace;
+  font-family: "Oxygen Mono", monospace;
   font-weight: 400;
   line-height: 1.666;
   background: #4c4c4c;
@@ -85,18 +85,17 @@ dd dl .term {
   margin-bottom: 1rem;
 }
 
-
 @media only screen and (max-width: 800px) {
   .dictionary {
     justify-content: center;
   }
-  
-.searchbox {
-  width: 100%;
-}
-  
-.searchbox input[type="text"] {
-  width: 40%;
-  margin: 0 auto;
 
+  .searchbox {
+    width: 100%;
+  }
+
+  .searchbox input[type="text"] {
+    width: 40%;
+    margin: 0 auto;
+  }
 }
