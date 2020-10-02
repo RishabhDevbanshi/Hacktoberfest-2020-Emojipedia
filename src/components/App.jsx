@@ -29,6 +29,8 @@ function App() {
           onChange={value => {
             let regExp = new RegExp(value, "gi");
             setResults(emojipedia.filter(element => regExp.test(element.name)));
+            console.log("setResults.length= ",results)
+            {results.length<1?alert("No matching emoji Found 😢"):console.log(results.length," matchign emojis found");}
           }}
           fuseConfigs={{
             threshold: 0.05,
