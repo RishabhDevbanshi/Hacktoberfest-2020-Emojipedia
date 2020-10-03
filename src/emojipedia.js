@@ -254,6 +254,42 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "🧗",
+    name: "Person Climbing",
+    meaning: "A rock climber shown climbing a cliff. Sometimes more visibly shown with a helmet and/or rope. This emoji design was created with assistance from World Champion Rock Climber Sasha DiGiulian."
+  },
+  {
+    id: 39,
+    emoji: "🧗‍♂️",
+    name: "Man Climbing",
+    meaning: "A male rock climber shown climbing a cliff. Sometimes more visibly shown with a helmet and/or rope. This emoji design was created with assistance from World Champion Rock Climber Sasha DiGiulian."
+  },
+  {
+    id: 40,
+    emoji: "🧗‍♀️",
+    name: "Woman Climbing",
+    meaning: "A female rock climber shown climbing a cliff. Sometimes more visibly shown with a helmet and/or rope. This emoji design was created with assistance from World Champion Rock Climber Sasha DiGiulian."
+  },
+  {
+    id: 41,
+    emoji: "🚵",
+    name: "Person Mountain Biking",
+    meaning: "A mountain biker. Displayed as a person riding a bike with mountains in the background."
+  },
+  {
+    id: 42,
+    emoji: "🚵‍♂️",
+    name: "Man Mountain Biking",
+    meaning: "A male mountain biker. Displayed as a man riding a bike with mountains in the background."
+  },
+  {
+    id: 43,
+    emoji: "🚵‍♀️",
+    name: "Woman Mountain Biking",
+    meaning: "A female mountain biker. Displayed as a woman riding a bike with mountains in the background."
   }
 ];
 
