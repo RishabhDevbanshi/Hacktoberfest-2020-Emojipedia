@@ -30,6 +30,8 @@ function App() {
             let regExp = new RegExp(value, "gi");
             setResults(emojipedia.filter(element => regExp.test(element.name)));
           }}
+          inputBoxBorderColor={"yellow"}
+          inputBoxFontColor={"brown"}
           fuseConfigs={{
             threshold: 0.05,
           }}
