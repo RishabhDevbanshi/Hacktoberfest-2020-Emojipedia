@@ -87,8 +87,7 @@ const emojipedia = [
     id: 13,
     emoji: "🥺",
     name: "Pleading Face",
-    meaning:
-      "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+    meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
   },
   {
     id: 14,
@@ -254,7 +253,25 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
-  }
+  },
+  {
+    id: 38,
+    emoji: "😳",
+    name: "Flushed Face",
+    meaning: "A yellow face with wide eyes and red cheeks. It is usually used to depict feelings of embarassment, shame, or shyness. It may also depict surprise and amazement"
+  },
+  {
+    id: 39,
+    emoji: "💓",
+    name: "Beating Heart",
+    meaning: "A pink/red heart with lines above it, indicating that it's pulsating. It is used to represent strong and intense feelings for someone or something."
+  },
+  {
+    id: 40,
+    emoji: "💛", 
+    name: "Yellow Heart",
+    meaning: "A yellow heart, used to represent happiness and friendship. It is not used in the romantic context."
+  },
 ];
 
 export default emojipedia;
