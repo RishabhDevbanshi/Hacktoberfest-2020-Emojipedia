@@ -16,7 +16,7 @@ h1 {
 }
 
 h1 span {
-  padding: 5px 15px;
+  padding: 2rem 2rem;
   background: #fddb3a;
 }
 
@@ -31,8 +31,8 @@ h1 span {
   max-width: 20rem;
   margin-bottom: 3rem;
   padding: 2rem;
-  border-radius: 3px;
-  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 1rem;
+  box-shadow: 0 1rem 0 rgba(0, 0, 0, 0.05), 0 2rem 4rem rgba(0, 0, 0, 0.1);
   background-color: #fff;
   transition: all 100ms ease-in-out;
 }
@@ -53,11 +53,11 @@ dt {
 
 dt span {
   font-size: 200%;
-  font-weight: 900;
+  font-weight: 900rem;
 }
 
 .emoji {
-  margin: 0 auto 20px;
+  margin: 0 auto 2rem;
   display: block;
   font-size: 400%;
 }
@@ -68,7 +68,7 @@ dd {
 }
 
 dd dt {
-  margin-top: 1rem;
+  margin-top: 1em;
   margin-bottom: 0.25rem;
   font-weight: 600;
   font-size: inherit;
