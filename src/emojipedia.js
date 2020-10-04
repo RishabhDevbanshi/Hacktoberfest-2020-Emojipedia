@@ -254,6 +254,20 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "💯",
+    name: "Hundred points",
+    meaning:
+      "A perfect score of hundred. Commonly used as a shorthand for 100%, with the usage meaning “keep it real” or a similar sentiment. Used to express pride or general acceptance of an idea."
+  },
+  {
+    id: 39,
+    emoji: "💤",
+    name: "Zzz",
+    meaning:
+      "A series of three Zs making a Zzz. Represents sleeping, snoring, dreaming, or any sleep-related state. Can also be used in some contexts to represent something that is boring."
   }
 ];
 
