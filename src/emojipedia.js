@@ -254,6 +254,27 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "🥳",
+    name: "Partying Face",
+    meaning:
+      "This is an emoji with a party hat and blowing rolls. Colorful paper scattered around his face. It is generally used to celebrate holidays, anniversaries or interesting occasions to express the emotions of 🎉 celebration, 😄 cheer, and 🥰 happiness."
+  },
+  {
+    id: 39,
+    emoji: "🎈",
+    name: "Party Ballon",
+    meaning:
+      "A balloon on a string, as decorates a birthday party. Generally depicted in red, though WhatsApp’s is pink and Google’s orangish-red.Commonly used to convey congratulations and celebration, especially when wishing someone a happy birthday."
+  },
+  {
+    id: 40,
+    emoji: "🎊",
+    name: "Confetti Ball",
+    meaning:
+      "A golden ball, split in two halves in a shower of multicolored confetti and streamers.Like 🎉 Party Popper, commonly used to convey congratulations and celebration, as on New Year’s Eve, birthdays, wedding days, graduations, and other special occasions or good times more generally."
   }
 ];
 

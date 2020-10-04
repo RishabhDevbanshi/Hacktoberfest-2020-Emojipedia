@@ -14,9 +14,18 @@ function createEmoji(emoji) {
   );
 }
 
+function emptyResultMessage() {
+  return (
+    <Emoji
+      key={0}
+      name={`Not Found`}
+      meaning={`The required emoji not found in the result you looking for.!`}
+    />
+  );
+}
+
 function App() {
   let [results, setResults] = useState(emojipedia);
-
   return (
     <div>
       <h1>
@@ -38,7 +47,7 @@ function App() {
       <div style={{ margin: '4rem' }}>
 
         <dl className="dictionary">
-          {results.map(createEmoji)}
+          {results.length>0 ? results.map(createEmoji) : emptyResultMessage()}
         </dl>
       </div>
     </div>
