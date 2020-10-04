@@ -26,7 +26,7 @@ h1 span {
   justify-content: space-between;
 }
 
-.dictionary > .term {
+.dictionary>.term {
   text-align: center;
   max-width: 20rem;
   margin-bottom: 3rem;
@@ -36,13 +36,14 @@ h1 span {
   background-color: #fff;
   transition: all 100ms ease-in-out;
 }
+
 @media only screen and (max-width: 986px) {
-.term {
-  min-width: 100%;
-}
+  .term {
+    min-width: 100%;
+  }
 }
 
-.dictionary > .term > dt {
+.dictionary>.term>dt {
   margin-bottom: 1rem;
 }
 
@@ -90,13 +91,13 @@ dd dl .term {
   .dictionary {
     justify-content: center;
   }
-  
-.searchbox {
-  width: 100%;
-}
-  
-.searchbox input[type="text"] {
-  width: 40%;
-  margin: 0 auto;
 
-}
+  .searchbox {
+    width: 80%;
+  }
+
+  .searchbox input[type="text"] {
+    width: 40%;
+    margin: 0 auto;
+
+  }
