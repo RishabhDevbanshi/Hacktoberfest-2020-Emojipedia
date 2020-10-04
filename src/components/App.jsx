@@ -27,7 +27,7 @@ function App() {
         <ReactSearchBox
           placeholder="Search for an Emoji..."
           onChange={value => {
-            let regExp = new RegExp(value, "gi");
+            let regExp = new RegExp(value, "i");
             setResults(emojipedia.filter(element => regExp.test(element.name)));
           }}
           fuseConfigs={{
