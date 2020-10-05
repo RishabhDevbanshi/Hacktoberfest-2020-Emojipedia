@@ -35,6 +35,9 @@ h1 span {
 }
 
 .card {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	padding: 2rem;
 	border-radius: 3px;
 	box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
@@ -43,9 +46,6 @@ h1 span {
 	width: 100%;
 	height: 100%;
 	cursor: pointer;
-	display: flex;
-	justify-content: center;
-	align-items: center;
 }
 
 .back,
