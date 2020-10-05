@@ -3,25 +3,15 @@ import ReactSearchBox from "react-search-box";
 import emojipedia from "../emojipedia";
 import Emoji from "./Emoji";
 
-function createEmoji(emoji) {
-  return (
-    <Emoji
-      key={emoji.id}
-      name={emoji.name}
-      emoji={emoji.emoji}
-      meaning={emoji.meaning}
-    />
-  );
-}
 
-function App() {
-  let [results, setResults] = useState(emojipedia);
+export default function App() {
+  const [results, setResults] = useState(emojipedia);
 
   return (
-    <div>
-      <h1>
-        <span>Emojipedia</span>
-      </h1>
+    <div className="container">
+      <div className="title">
+        <h1>Emojipedia</h1>
+      </div>
 
       <div className="searchbox">
         <ReactSearchBox
@@ -35,14 +25,21 @@ function App() {
           }}
         />
       </div>
-      <div style={{ margin: '4rem' }}>
 
-        <dl className="dictionary">
-          {results.map(createEmoji)}
-        </dl>
-      </div>
+      <dl className="dictionary">
+        {results.map(createEmoji)}
+      </dl>
     </div>
   );
 }
 
-export default App;
+function createEmoji(emoji) {
+  return (
+    <Emoji
+      key={emoji.id}
+      name={emoji.name}
+      emoji={emoji.emoji}
+      meaning={emoji.meaning}
+    />
+  );
+}

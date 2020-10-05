@@ -1,16 +1,15 @@
 import React from "react";
 
-function Emoji(props) {
+export default function Emoji({ name, emoji, meaning }) {
   return (
     <div className="term">
-      <dt>
-        <span className="emoji" role="img" aria-label={props.name}>
-          {props.emoji}
+      <dt className="emoji-term">
+        <span className="emoji" role="img" aria-label={name}>
+          {emoji}
         </span>
       </dt>
-      <dd>{props.meaning}</dd>
+
+      <dd>{meaning}</dd>
     </div>
   );
 }
-
-export default Emoji;
