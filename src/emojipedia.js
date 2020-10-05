@@ -254,6 +254,20 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "❤️",
+    name: "Red Heart",
+    meaning:
+      "A classic love heart emoji, used for expressions of love. Displayed in various shades of red on most platforms."
+  },
+   {
+    id: 39,
+    emoji: "🙂",
+    name: "Slightly Smiling Face",
+    meaning:
+      "A yellow face with simple, open eyes and a thin, closed smile. Conveys a wide range of positive, happy, and friendly sentiments."
   }
 ];
 
