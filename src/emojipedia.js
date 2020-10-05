@@ -254,6 +254,27 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "😗",
+    name: "Kissing Face",
+    meaning:
+      "A yellow face with simple, open eyes and puckered lips giving a kiss. Commonly conveys sentiments of love and affection."
+  },
+  {
+    id: 39,
+    emoji: "👽",
+    name: "Alien",
+    meaning:
+      "A classic alien face. The oval, bare head of a gray or green alien with large black eyes and a slight, friendly smile. Samsung depicts nostrils, Facebook a nose."
+  },
+  {
+    id: 40,
+    emoji: "☠️",
+    name: "Skull and Crossbones",
+    meaning:
+      "A cartoon human skull atop an X-shaped pair of bones, as on a pirate flag or poison symbol."
   }
 ];
 
