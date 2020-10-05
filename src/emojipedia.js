@@ -254,7 +254,35 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
-  }
+  },
+  {
+    id: 38,
+    emoji: "🥳",
+    name: "Partying Face",
+    meaning:
+      "A yellow face with a party hat blowing a party horn as confetti floats around its head. Used for celebrating joyous occasions and enjoying good times more generally."
+  },
+  {
+    id: 39,
+    emoji: "😍",
+    name: "Smiling face with Heart Eyes",
+    meaning:
+      "A yellow face with an open smile, sometimes showing teeth, and red, cartoon-styled hearts for eyes. Often conveys enthusiastic feelings of love, infatuation, and adoration."
+  },
+  {
+    id: 40,
+    emoji: "😋",
+    name: "Face Savoring Food",
+    meaning:
+      "A yellow face with smiling eyes and a broad, closed smile with its tongue sticking out of one corner, as if licking its lips in appetite or contentment."
+  },
+  {
+    id: 41,
+    emoji: "😴",
+    name: "Sleeping Face",
+    meaning:
+      "A yellow face with eyes closed and mouth letting out three, cartoon-styled Zzz’s overhead to indicate it's sound asleep. The Zzz’s appear blue or purple across most platforms. May also represent boredom (slang)."
+  },
 ];
 
 export default emojipedia;
