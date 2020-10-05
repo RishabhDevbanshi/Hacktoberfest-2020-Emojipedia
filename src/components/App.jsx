@@ -26,20 +26,19 @@ function App() {
       <div className="searchbox">
         <ReactSearchBox
           placeholder="Search for an Emoji..."
-          onChange={value => {
+          onChange={(value) => {
             let regExp = new RegExp(value, "gi");
-            setResults(emojipedia.filter(element => regExp.test(element.name)));
+            setResults(
+              emojipedia.filter((element) => regExp.test(element.name))
+            );
           }}
           fuseConfigs={{
             threshold: 0.05,
           }}
         />
       </div>
-      <div style={{ margin: '4rem' }}>
-
-        <dl className="dictionary">
-          {results.map(createEmoji)}
-        </dl>
+      <div style={{ margin: "4rem" }}>
+        <dl className="dictionary">{results.map(createEmoji)}</dl>
       </div>
     </div>
   );
