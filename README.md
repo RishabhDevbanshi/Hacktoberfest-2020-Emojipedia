@@ -1,4 +1,15 @@
+<<<<<<< Updated upstream
 # <u>Emojipedia </u>
+=======
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" width="30%">
+    </a>
+</p>
+
+
+# Emojipedia 
+>>>>>>> Stashed changes
 
 
 A wikipedia of emojis. Yes! Emojis too have meanings! And each one of it is  unique and interesting in itself 😉.
@@ -13,8 +24,15 @@ Well, no need to worry now, this EMOJIPEDIA will make your life easier. 😇 It 
   <p>Find it <a href="https://rishabhdevbanshi.github.io/Emojipedia/">here<a>.
     We welcome anyone and everyone to contribute.</p>
 
+<<<<<<< Updated upstream
 Ever had that moment where you wondered, 'what on earth is that emoji'? 🤔 
 Yeah, us too. But with Emojipedia, you get a brief description about different emojis. You'll no longer be limited to the run-of-the-mill emojis, and will easily find the perfect fit. Self-expression couldn't get easier. 😄
+=======
+# Hacktoberfest
+Participate in Hacktoberfest by contributing this repository.
+
+# How to Contribute
+>>>>>>> Stashed changes
 
 
 1.<b> Fork this repository.<b> 📌
@@ -39,4 +57,6 @@ Yeah, us too. But with Emojipedia, you get a brief description about different e
 </ul>
 
 <h2>All feedbacks and suggestions are welcome! Everyone can contribute toward this project✨. Just <strong>FORK</strong> and make a <strong>PR</strong>.</h2>
+
+# Happy Coding !
 
