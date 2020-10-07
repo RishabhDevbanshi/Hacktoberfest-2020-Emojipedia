@@ -254,6 +254,13 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  { 
+    id: 38,
+    emoji: "👀",
+    name: "Eyes",
+    meaning:
+      "The eyes emoji is a simple and fun way to draw attention to a link or image you want to share with an audience. Instead of saying "Look at this", you might consider using the eyes as a silly substitute."
   }
 ];
 
