@@ -1,16 +1,24 @@
 import React from "react";
+import copy from "copy-to-clipboard";
 
-function Emoji(props) {
+export default function Emoji({ name, emoji, meaning }) {
+  function copyEmoji(emoji) {
+    copy(emoji);
+    alert("emojis copied....");
+  }
+
   return (
     <div className="term">
-      <dt>
-        <span className="emoji" role="img" aria-label={props.name}>
-          {props.emoji}
+      <dt className="emoji-term">
+        <span className="emoji" role="img" aria-label={name}>
+          {emoji}
         </span>
       </dt>
-      <dd>{props.meaning}</dd>
+
+      <dd>{meaning}</dd>
+      <br />
+
+      <button onClick={() => copyEmoji(emoji)} className="copy-emoji-btn">Copy Emoji</button>
     </div>
   );
 }
-
-export default Emoji;

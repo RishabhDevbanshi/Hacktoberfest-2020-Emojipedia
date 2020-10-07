@@ -1,102 +1,103 @@
 body {
-  font-family: 'Oxygen Mono', monospace;
-  font-weight: 400;
+  color: #cfcfc9;
+  font-weight: 600;
   line-height: 1.666;
-  background: #4c4c4c;
-  color: #555;
+  background: #15202b;
+  font-family: 'Oxygen Mono', monospace;
 }
 
-h1 {
-  font-weight: 900;
-  font-size: 500%;
-  text-align: center;
-  margin-top: 4rem;
+.container {
+  width: 80%;
+  margin: -25px auto 20px auto;
+}
+
+.title {
+  display: flex;
+  margin-bottom: -10px;
+  justify-content: center;
+}
+
+.title h1 {
   color: #fff;
-  line-height: 1.2;
+  padding: 10px;
+  font-size: 4.4rem;
+  letter-spacing: 5px;
+  font-family: monospace;
+  text-shadow: 6px 6px #273742;
 }
 
-h1 span {
-  padding: 5px 15px;
-  background: #fddb3a;
+.searchbox {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 70px;
 }
 
 .dictionary {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  gap: 25px;
+  display: grid;
+  margin: 10px auto;
+  justify-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
 }
 
-.dictionary > .term {
-  text-align: center;
-  max-width: 20rem;
-  margin-bottom: 3rem;
-  padding: 2rem;
-  border-radius: 3px;
-  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
-  background-color: #fff;
-  transition: all 100ms ease-in-out;
-}
-@media only screen and (max-width: 986px) {
 .term {
-  min-width: 100%;
-}
+  width: 20rem;
+  display: flex;
+  padding: 1.6rem;
+  border-radius: 3px;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #192734;
+  transition: all 100ms ease-in-out;
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
 }
 
-.dictionary > .term > dt {
-  margin-bottom: 1rem;
-}
-
-dt {
-  color: #2ec2b0;
-  line-height: 1;
-}
-
-dt span {
-  font-size: 200%;
-  font-weight: 900;
+.emoji-term {
+  margin-bottom: 25px;
 }
 
 .emoji {
-  margin: 0 auto 20px;
-  display: block;
-  font-size: 400%;
+  font-size: 5rem;
+  font-weight: 900;
+}
+
+dt {
+  line-height: 1;
+  color: #2ec2b0;
 }
 
 dd {
-  font-size: 92.5%;
   margin-left: 0;
 }
 
-dd dt {
-  margin-top: 1rem;
-  margin-bottom: 0.25rem;
-  font-weight: 600;
-  font-size: inherit;
-}
-
-dd dl {
-  font-size: 90%;
-  margin: 1rem auto 0 auto;
-  letter-spacing: 0.33px;
-  max-width: 15rem;
-}
-
-dd dl .term {
-  margin-bottom: 1rem;
-}
-
-
-@media only screen and (max-width: 800px) {
-  .dictionary {
-    justify-content: center;
-  }
-  
-.searchbox {
+.copy-emoji-btn {
   width: 100%;
+  color: #fff;
+  border: none;
+  outline: none;
+  padding: 7px;
+  font-size: 17px;
+  cursor: pointer;
+  box-sizing: border-box;
+  font-family: monospace;
+  border: 2px solid #273742;
+  background-color: #192734;
+  transition: color 0.2s, background-color 0.2s;
 }
-  
-.searchbox input[type="text"] {
-  width: 40%;
-  margin: 0 auto;
 
+.copy-emoji-btn:hover {
+  background-color: #38444d;;
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    width: 90%;
+    margin-top: -10px;
+  }
+
+  .title h1 {
+    font-size: 3.5rem;
+  }
 }
