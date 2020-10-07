@@ -72,6 +72,25 @@ dd {
   margin-left: 0;
 }
 
+.copy-emoji-btn {
+  width: 100%;
+  color: #fff;
+  border: none;
+  outline: none;
+  padding: 7px;
+  font-size: 17px;
+  cursor: pointer;
+  box-sizing: border-box;
+  font-family: monospace;
+  border: 2px solid #273742;
+  background-color: #192734;
+  transition: color 0.2s, background-color 0.2s;
+}
+
+.copy-emoji-btn:hover {
+  background-color: #38444d;;
+}
+
 @media screen and (max-width: 600px) {
   .container {
     width: 90%;
