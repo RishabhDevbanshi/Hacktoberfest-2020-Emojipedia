@@ -254,6 +254,20 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "✨",
+    name: "Sparkles",
+    meaning:
+      "Usually depicted by using three stars clustered together. It shows positivity, excitement and gratitude."
+  },
+  {
+    id: 39,
+    emoji: "⚡",
+    name: "Thunder",
+    meaning:
+      "Used to express power, excitement and positivity."
   }
 ];
 
