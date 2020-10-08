@@ -254,7 +254,36 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
-  }
+    },
+  {
+    id: 38,
+    emoji: "😀",
+    name: "Grinning Face",
+    meaning:
+      "The most common emoji and universally applicable. We use this when we just want to say hello, express joy or excitement about something or brighten up a short text."
+    },
+    {
+        id: 39,
+        emoji: "😉",
+        name: "Winking Face",
+        meaning:
+        " Expression of humor, has been pulling a practical joke, is flirting with you or has an ulterior motive. "
+    },
+    {
+        id: 40,
+        emoji: "😒",
+        name: "Unamused Face",
+        meaning:
+            "The grumpy, sullen gaze expresses dissatisfaction. Is not enthusiastic about a thing and shows that. Expression of disinterest and disapproval."
+    },
+    {
+        id: 40,
+        emoji: "🙄",
+        name: "Face With Rolling Eyes",
+        meaning:
+            "Smiley is rolling its eyes. Finds the current situation or a person boring or annoying. Will disregard the message."
+    }
+
 ];
 
 export default emojipedia;
