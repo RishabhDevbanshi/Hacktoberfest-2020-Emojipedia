@@ -62,6 +62,31 @@ dt span {
   font-size: 400%;
 }
 
+.tooltip {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 140px;
+  color: black;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0 5px 40px;
+  font-size: 14px;
+  overflow-wrap: break-word;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
 dd {
   font-size: 92.5%;
   margin-left: 0;
@@ -90,13 +115,13 @@ dd dl .term {
   .dictionary {
     justify-content: center;
   }
-  
+
 .searchbox {
   width: 100%;
 }
-  
+
 .searchbox input[type="text"] {
   width: 40%;
   margin: 0 auto;
-
+}
 }
