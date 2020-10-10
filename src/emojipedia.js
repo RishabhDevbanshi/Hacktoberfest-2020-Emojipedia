@@ -254,6 +254,97 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "👀",
+    name: "Eyes",
+    meaning:
+      "The pair of widely open eyes looking either straight or to the left, depending on the emoji provider. It is used mostly in the direct meaning of looking at something, wanting to see something or confusion"
+  },
+  {
+    id: 39,
+    emoji: "👌",
+    name: "OK hand sign",
+    meaning:
+      "A gesture showing the index finger and thumb touching to make an open circle. Represents “I’m okay” or “yes, that’s correct / good“"
+  },
+  {
+    id: 40,
+    emoji: "😶",
+    name: "Face without Mouth",
+    meaning:
+      "A yellow face with simple, open eyes and no mouth, as if at a loss for words. Meaning widely varies, but commonly conveys speechlessness, humility, and silence"
+  },
+  {
+    id: 41,
+    emoji: "😏", 
+    name: "Smirking Face",
+    meaning:
+      "It's used to communicate a range of feelings, including smugness, self-confidence, self-indulgence, mischief, cheeky humor, and general satisfaction"
+  },
+  {
+    id: 42,
+    emoji: "😒",
+    name: "Uamused Face",
+    meaning:
+      "A yellow face with slightly raised eyebrows, a frown, and eyes looking to the side. May convey a variety of negative emotions, including irritation, displeasure, grumpiness, and skepticism"
+  },
+  {
+    id: 43,
+    emoji: "🤔",
+    name: "Thinking Emoji",
+    meaning:
+      "A yellow face with furrowed eyebrows looking upwards with thumb and index finger resting on its chin. Intended to show a person pondering or deep in thought. Often used to question or scorn something or someone, as if saying Hmm, I don't know about that. Tone varies, including earnest, playful, puzzled, skeptical, and mocking."
+  },
+  {
+    id: 44,
+    emoji: "🤫",
+    name: "Shushing Face",
+    meaning:
+      "A yellow face placing an index finger over pursed lips, as if issuing Shh! or Shush! for silence. Some platforms feature raised eyebrows. May convey silence, quiet, secrecy, and discreetness. May also create a sense of buzz and anticipation, e.g., an exclusive sneak peek or news scoop."
+  },
+  {
+    id: 45,
+    emoji: "😤",
+    name: "Face with stream from Nose",
+    meaning:
+      " yellow face with closed eyes, furrowed eyebrows, broad frown, and two puffs of steam blowing out of its nose, as if in a huff or fuming. May convey various negative emotions, including irritation, anger, and contempt.May also convey feelings of pride, dominance, and empowerment"
+  },
+  {
+    id: 46,
+    emoji: "🤧",
+    name: "Sneezing Face",
+    meaning:
+      "A yellow face with scrunched, X-shaped eyes sneezing or blowing its nose into a white tissue, as if from a cold or allergies. Often depicted with a crumpled-looking mouth. May also represent someone in an emotional state wiping away tears"
+  },
+  {
+    id: 47,
+    emoji: "🖤",
+    name: "Black Heart",
+    meaning: 
+      "For some, the black heart emoji is the perfect emoji for a rainy day when you are sitting inside, feeling angsty and misunderstood. It can mean you are feeling emo, have a dark twisted soul, morbid sense of humor, or just love sad stuff. However, and much more seriously, the emoji has become increasingly used to express support for the Black Lives Matter movement."
+  },
+  {
+    id: 48,
+    emoji: "😇",
+    name: "Smiley Face with Halo",
+    meaning:
+      "A yellow face with smiling eyes, closed smile, and halo, usually blue, overhead. Often represents angels, prayers, and blessings. May also convey angelic behavior"
+  },
+  {
+    id: 49,
+    emoji: "🤲",
+    name: "Dua or Prayer",
+    meaning: 
+      "Two hands held out together with open palms facing up, in a slightly cupped manner. May be used to represent an open book in American Sign Language(ASL), or the gesture used by followers of Islam when praying."
+  },
+  {
+    id: 50,
+    emoji: "🤜",
+    name: "Right-Facing Fist",
+    meaning:
+      "Right-Facing Fist emoji is the mirrored version of 🤛 Left-Facing Fist emoji and it looks like a hand made into a fist, which is pointing to the right. These two emojis are used together very often — the right-facing one first, then the left-facing one — this makes a fist bump gesture, used by many young people as a symbol of their respect to each other."
   }
 ];
 
