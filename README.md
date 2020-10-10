@@ -25,10 +25,10 @@ Yeah, us too. But with Emojipedia, you get a brief description about different e
   `git pull upstream master` <br />
   to keep your local repo up-to-date with this repository. 🧮
 4. Make required changes and improvements. 🧠
-5. Make a pull request. ✌️
+5. Make a pull request on your github web's or desktop' accounts. ✌️
  
 
-<h5>Don't forget to give this repository a star! ⭐</h5>
+<h5>Don't forget to give this repository a star and enjoy make little change! ⭐</h5>
 
 # <u>Feel Free to open a issue</u>
 
