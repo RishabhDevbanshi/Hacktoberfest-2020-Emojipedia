@@ -254,6 +254,13 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "🤑",
+    name: "Money-Mouth Face",
+    meaning:
+      "A yellow face with raised eyebrows, a dollar sign in the eye for money, and an open smile sticking out his tongue as if he was crazy for money."
   }
 ];
 
