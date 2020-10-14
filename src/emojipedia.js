@@ -255,6 +255,20 @@ const emojipedia = [
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
   }
+  {
+    id: 38,
+    emoji: "🛹",
+    name: "Skateboard",
+    meaning:
+      "A blue skateboard"
+  }
+  {
+    id: 38,
+    emoji: "🌿",
+    name: "Herb",
+    meaning:
+      "A herb leaf"
+  }
 ];
 
 export default emojipedia;
