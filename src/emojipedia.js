@@ -254,6 +254,13 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "👃🏻",
+    name: "Nose",
+    meaning:
+      "A human nose. May be used to indicate smelling, or something that smells."
   }
 ];
 
