@@ -254,6 +254,13 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji : "🚙",
+    name: "Car",
+    meaning:
+      "A blue car driving to the left. This emoji is often used to express movement or travel."
   }
 ];
 
