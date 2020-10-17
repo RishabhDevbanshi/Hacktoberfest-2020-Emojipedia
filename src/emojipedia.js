@@ -87,6 +87,34 @@ const emojipedia = [
     id: 13,
     emoji: "🥺",
     name: "Pleading Face",
+
+    meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
+  },
+  
+    {
+    id: 14,
+    emoji: "👽",
+    name: "alien",
+    meaning: "This emoji isn't quite often used but it resembles the situation of being part of something that isn't relevant to us but still we have to boringly"
+  },
+    {
+    id: 15,
+    emoji: "🥴",
+    name: "cockeyed expression",
+    meaning: "It's a quite interesting emoji which depicts the cringe feeling or being annoyed to say 'oh please'"
+  },
+    {
+    id: 16,
+    emoji: "🤗",
+    name: "Hugging Face",
+    meaning: "The joy and excitation for somebody we have or to just hug that person , can be used to say thankyou too"
+  },  
+  {
+    id: 17,
+    emoji: "🤐",
+    name: "keep mouth shut emoji",
+    meaning: "Now this emoji too has many aspects of being used. Firstly its used when someone goes speechless or has left nothing to say, or you don't want to comment anything that is not suitable"
+=======
     meaning:
       "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
   },
@@ -254,7 +282,10 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+
   }
+  
+  
 ];
 
 export default emojipedia;
