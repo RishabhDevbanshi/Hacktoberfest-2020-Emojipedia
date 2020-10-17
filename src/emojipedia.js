@@ -254,6 +254,13 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+  id: 38,
+  emoji: "😴",
+  name: "Sleepy",
+  meaning:
+   "I'm tired and I'm boring, i want to sleep. The emoji also popularly represents or illness"
   }
 ];
 
