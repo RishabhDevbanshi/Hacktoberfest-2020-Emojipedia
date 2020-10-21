@@ -261,6 +261,13 @@ const emojipedia = [
     name: "Car",
     meaning:
       "A blue car driving to the left. This emoji is often used to express movement or travel."
+  },
+  {
+    id: 39,
+    emoji : "🏥",
+    name: "Hospital",
+    meaning:
+      "Building which represents a hospital. This emoji is often used to express an injury or problem."
   }
 ];
 
