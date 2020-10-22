@@ -4,6 +4,7 @@ import emojipedia from "../emojipedia";
 import Emoji from "./Emoji";
 
 function createEmoji(emoji) {
+
   return (
     <Emoji
       key={emoji.id}
@@ -17,6 +18,7 @@ function createEmoji(emoji) {
 function App() {
   let [results, setResults] = useState(emojipedia);
 
+  if(results.length<1){
   return (
     <div>
       <h1>
@@ -29,7 +31,37 @@ function App() {
           onChange={value => {
             let regExp = new RegExp(value, "gi");
             setResults(emojipedia.filter(element => regExp.test(element.name)));
+            }}
+          fuseConfigs={{
+            threshold: 0.05,
           }}
+        />
+      </div>
+      <div style={{ margin: '4rem',backgroundColor:'white' }}>
+      <p>Sorry....</p>
+      <p>No Search Found</p>
+        <dl className="dictionary">
+          
+        </dl>
+      </div>
+    </div>
+  );
+
+}
+  
+  return (
+    <div>
+      <h1>
+        <span>Emojipedia</span>
+      </h1>
+
+      <div className="searchbox">
+        <ReactSearchBox
+          placeholder="Search for an Emoji..."
+          onChange={value => {
+            let regExp = new RegExp(value, "gi");
+            setResults(emojipedia.filter(element => regExp.test(element.name)));
+            }}
           fuseConfigs={{
             threshold: 0.05,
           }}
