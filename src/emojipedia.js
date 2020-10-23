@@ -254,6 +254,20 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "🏳️‍🌈",
+    name: "Rainbow Flag",
+    meaning:
+      "A flag with six colors of the rainbow, generally including red, orange, yellow, green, blue and purple. Commonly used by the LGBT movement as a gay pride flag, or simply pride flag and seen at Pride events."
+  },
+  {
+    id: 39,
+    emoji: "🎃",
+    name: "Jack-O-Lantern",
+    meaning:
+      "An orange pumpkin carved into the shape of a face and commonly known as a Jack-o’-lantern."
   }
 ];
 
