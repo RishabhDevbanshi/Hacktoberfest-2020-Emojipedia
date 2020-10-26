@@ -254,6 +254,20 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "🙌",
+    name: "Raising hands",
+    meaning:
+      "Two hands raised in the air, celebrating success or another joyous event. It is also used to show support to an opinion when you are have nothing to say." 
+  },
+  {
+    id: 39,
+    emoji: "🙋",
+    name: "Person raising hand",
+    meaning:
+      "A person with its hand in the air, as if it wants to ask or answer a question. It is generally used by introverts to raise their concerns or to enter in an ongoing convo." 
   }
 ];
 
