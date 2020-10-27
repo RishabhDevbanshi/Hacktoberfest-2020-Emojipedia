@@ -254,6 +254,13 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "🐶",
+    name: "Dog",
+    meaning:
+      "A dog with its tongue out. Used to represent a dog or puppy."
   }
 ];
 
