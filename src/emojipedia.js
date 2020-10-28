@@ -254,6 +254,13 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "🎈",
+    name: "Balloon",
+    meaning:
+      "A red ballon on a string. This emoji is used for expressing celebration, especially when congratulations are due on someone's birthday."
   }
 ];
 
