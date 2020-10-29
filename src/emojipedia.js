@@ -254,6 +254,13 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "🗽",
+    name: "Statue of Liberty",
+    meaning:
+      "Represents the Statue of Liberty monument, located on Liberty Island, off the coast of New York City and is recognized as a universal symbol of freedom and democracy."
   }
 ];
 
