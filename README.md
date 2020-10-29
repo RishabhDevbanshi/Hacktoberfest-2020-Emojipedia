@@ -6,7 +6,11 @@ A wikipedia of emojis. Yes! Emojis too have meanings! And each one of it is  uni
 #<u> Description</u>
 
 Ever saw an emoji and thought "Dude! What does this emoji mean? When can we use this one?"🤔. 
-Well, no need to worry now, this EMOJIPEDIA will make your life easier. 😇 It gives a brief description about different emojis, so that you need not be limited to those usual emojis and can easily find a perfect emoji for your imperfect situation. 😄
+Well, no need to worry now, this EMOJIPEDIA will make your life easier. 😇 It gives a brief description about different emojis, so that you need not be limited to those usual emojis and can easily find a perfect emoji for your imperfect situation. 
+😀 Grinning Face. The happy smiling face is one of the most common emojis and universally applicable: you just want to say hello, express joy or excitement about something or brighten up a short text.
+🤗 Hugging Face features a warm smile and, on most platforms, hands with its palms facing out, intended to depict the act of hugging. As such, the emoji can express thanks, support, love, care, and other positive, affectionate feelings.
+list of emojis
+https://hotemoji.com/emoji-meanings.html
 
 # <u>Check out our awesome website</u>
   <img src="/website_screenshot.jpg">
