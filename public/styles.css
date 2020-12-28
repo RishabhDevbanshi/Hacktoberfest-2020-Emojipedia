@@ -101,10 +101,6 @@ dd dl .term {
   margin: 0 auto;
 }
 
-::selection {
-  background: orangered;
-}
-
-::-moz-selection {
+::selection, ::-moz-selection {
   background: orangered;
 }
