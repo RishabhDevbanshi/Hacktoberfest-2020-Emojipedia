@@ -254,6 +254,18 @@ const emojipedia = [
     name: "Bullseye",
     meaning:
       "A blue dart hitting the center of a board. Used for example when an incredibly accurate shot has been made."
+  },
+  {
+    id: 38,
+    emoji: "😊",
+    name: "Smiling Face with Smiling Eyes",
+    meaning:"Often expresses genuine happiness and warm, positive feelings."
+  },
+  {
+    id: 39,
+    emoji: "🤫",
+    name: "Shushing Face",
+    meaning:"May convey silence, quiet, secrecy, and discreetness. May also create a sense of buzz and anticipation, e.g., an exclusive sneak peek or news scoop."
   }
 ];
 
